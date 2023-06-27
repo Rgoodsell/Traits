@@ -1,0 +1,776 @@
+﻿Taxon;Richness;length_min;length_max;reference;notes
+Archaeognatha;495;10;12;(Arnett, 2000);
+Blattodea Blaberidae;1198;2.5;75;(Arnett, 2000)/(Hogue, 1993);
+Blattodea Blattidae ;2381;18;45;(Arnett, 2000);
+Blattodea Cryptocercidae;594;24;29;(Arnett, 2000);
+Blattodea Ectobiidae ;12;8;18;(Arnett, 2000);
+Blattodea Corydiidae;247;15;24;(Arnett, 2000);Includes Nocticolidae
+Coleoptera Amphizoidae;5;11;16;(Parker, 1982) ;
+Coleoptera Aspidytidae;2;4.8;7;(Beutel & Leschen, 2005) ;
+Coleoptera Carabidae;40000;1;85;(Beutel & Leschen, 2005) ;
+Coleoptera Dytiscidae;4015;1;48;(Beutel & Leschen, 2005);
+Coleoptera Gyrinidae;882;3;15;(Parker, 1982);
+Coleoptera Haliplidae;218;2;6;(Parker, 1982);
+Coleoptera Hygrobiidae;5;8;10;(Parker, 1982);
+Coleoptera Noteridae;250;1;5.8;(Beutel & Leschen, 2005);
+Coleoptera Trachypachidae;6;3.8;7;(Beutel & Leschen, 2005);
+Coleoptera Cupedidae;31;5;22;(Beutel & Leschen, 2005);
+Coleoptera Micromalthidae;1;1.5;2.5;(Parker, 1982);
+Coleoptera Ommatidae;6;6;27;(Beutel & Leschen, 2005);
+Coleoptera Lepiceridae;1;1.5;2;(Beutel & Leschen, 2005);
+Coleoptera Hydroscaphidae;22;1;2;(Beutel & Leschen, 2005);
+Coleoptera Sphaeriusidae;19;0.5;1.2;(Beutel & Leschen, 2005);
+Coleoptera Torridincolidae;60;1;2.7;(Beutel & Leschen, 2005);
+Coleoptera Aderidae;900;1;4;(Arnett et al., 2010);
+Coleoptera Agyrtidae;70;4;14;(Arnett et al., eds, 2000);
+Coleoptera Alexiidae;50;1.2;1.7;(Shockley, 2008);
+Coleoptera Anobiidae;2084;1;9;(Parker, 1982);
+Coleoptera Anthicidae;3000;1.5;15;(Parker, 1982);
+Coleoptera Anthribidae;3900;1;20;(Parker, 1982);
+Coleoptera_Polyphaga_ Artematopodidae;45;2.5;10;(Leschen et al., 2010);
+Coleoptera Attelabidae;2500;1;18;(Parker, 1982);
+Coleoptera Belidae;375;4.5;20;(Parker, 1982);
+Coleoptera Biphyllidae;200;1.5;8;(Parker, 1982);
+Coleoptera Boridae;4;8;25;(Arnett et al., 2010) ;
+Coleoptera Bostrichidae;570;1;50;(Parker, 1982);
+Coleoptera Bothrideridae;400;1.5;13;(Arnett et al., 2010);
+Coleoptera Brachyceridae;385;1.5;6;(Arnett et al., 2010);
+Coleoptera Brentidae;4000;3;80;(Parker, 1982);
+Coleoptera Buprestidae;14700;1.5;60;(Parker, 1982);
+Coleoptera Byrrhidae;430;1.5;10;(Parker, 1982);
+Coleoptera Byturidae;24;2.5;8;(Parker, 1982);
+Coleoptera Callirhipidae;150;9;23;(Arnett et al., 2010);
+Coleoptera Cantharidae;5100;1.5;30;(Parker, 1982);
+Coleoptera Cephaloidae;19;4.2;22;(Leschen et al., 2010);
+Coleoptera Cerambycidae;30079;2;200;(Parker, 1982);
+Coleoptera Ceratocanthidae;120;2;9;(Arnett et al., 2010);
+Coleoptera Cerylonidae;450;1;4;(Parker, 1982);
+Coleoptera Chelonariidae;250;2.5;10;(Parker, 1982);
+Coleoptera Chrysomelidae;32500;1;40;(Parker, 1982);
+Coleoptera Ciidae;650;0.5;7;(Parker, 1982);
+Coleoptera Clambidae;170;0.7;2;(Parker, 1982);
+Coleoptera Cleridae;3400;2;25;(Parker, 1982);
+Coleoptera Coccinellidae;6000;1;10;(Parker, 1982);
+Coleoptera Corylophidae;200;0.7;2.3;(Parker, 1982);
+Coleoptera Cryptophagidae;600;1;4;(Parker, 1982);
+Coleoptera Cucujidae;44;2.5;25;(Leschen et al., 2010);
+Coleoptera Curculionidae;50615;1;55;(Parker, 1982);
+Coleoptera Dascillidae;80;6;20;(Parker, 1982);
+Coleoptera Dermestidae;1200;1;12;(Parker, 1982);
+Coleoptera Derodontidae;30;1.5;4;(Parker, 1982);
+Coleoptera Discolomatidae;400;1.1;8;(Parker, 1982);
+Coleoptera Drilidae;120;3;10;(Parker, 1982);
+Coleoptera Dryopidae;300;2;8;(Parker, 1982);
+Coleoptera Elateridae;10000;1.5;60;(Parker, 1982);
+Coleoptera Elmidae;1500;1;8;(Parker, 1982);
+Coleoptera Endomychidae;1800;1;18;(Parker, 1982);
+Coleoptera Epimetopidae;27;1;4;(Beutel & Leschen, 2005);
+Coleoptera Erotylidae;2500;2.5;25;(Parker, 1982);
+Coleoptera Eucinetidae;53;0.8;4;(Parker, 1982);
+Coleoptera Eucnemidae;1500;1.5;40;(Leschen et al., 2010);
+Coleoptera Eulichadidae;30;15;25;(Parker, 1982);
+Coleoptera Georissidae;77;1;3;(Parker, 1982);
+Coleoptera Geotrupidae;920;5;45;(Arnett et al., 2010) ;
+Coleoptera Glaphyridae;204;6;20;(Arnett et al., 2010);
+Coleoptera Glaresidae;57;2.5;6;(Arnett et al., 2010);
+Coleoptera Helophoridae;183;2;9;(Beutel & Leschen, 2005);
+Coleoptera Helotidae;107;6;16;(Parker, 1982);
+Coleoptera Heteroceridae;300;1;8;(Arnett et al., 2010);
+Coleoptera Histeridae;4300;0.5;20;Parker et al 82;
+Coleoptera Hybosoridae;572;5;7;(Arnett et al., 2010);
+Coleoptera Hydraenidae;1600;1.2;3;(Parker, 1982);
+Coleoptera Hydrochidae;164;2;4;(Jäch & Balke, 2003);
+Coleoptera Hydrophilidae;3400;1;40;(Parker, 1982);
+Coleoptera Ithyceridae;6;12;15;(Parker, 1982);
+Coleoptera Kateretidae;95;1.3;6;(Hisamatsu, 2011);
+Coleoptera Laemophloeidae;430;1;5;(Arnett et al., 2010);
+Coleoptera Lampyridae;2200;4;30;(Parker, 1982);
+Coleoptera Languriidae;1000;1.2;25;(Parker, 1982);
+Coleoptera Latridiidae;1000;1;3;(Shockley et al., 2011);
+Coleoptera Leiodidae;3700;1;7;(Parker, 1982);
+Coleoptera Limnichidae;390;0.8;3;(Parker, 1982);
+Coleoptera Lucanidae;1489;4;80;(Parker, 1982);
+Coleoptera Lutrochidae;11;3;5;(Parker, 1982);
+Coleoptera Lycidae;4600;3;22;(Parker, 1982);
+Coleoptera Lymexylidae;70;5;40;(Parker, 1982);
+Coleoptera Mauroniscidae;26;2;4.5;(Leschen et al., 2010);
+Coleoptera Melandryidae;420;1.2;19;(Parker, 1982);
+Coleoptera Meloidae;3000;5;33;(Parker, 1982);
+Coleoptera Melyridae;6000;1;20;(Parker, 1982);
+Coleoptera Monotomidae;250;1.3;5;(Parker, 1982);
+Coleoptera Mordellidae;1500;2;15;(Parker, 1982);
+Coleoptera Mycetophagidae;130;0.8;6.5;(Parker, 1982);
+Coleoptera Nemonychidae;70;4;6;(Parker, 1982);
+Coleoptera Nitidulidae;4500;0.9;14;(Parker, 1982);
+Coleoptera Nosodendridae;50;2.5;9;(Parker, 1982);
+Coleoptera Ochodaeidae;110;3;10;(Arnett et al., 2010);
+Coleoptera Oedemeridae;500;5;20;(Parker, 1982);
+Coleoptera Omalisidae;8;3;9;(Leschen et al., 2010);
+Coleoptera Omethidae;33;3;12;(Arnett et al., 2010);
+Coleoptera Orsodacnidae;40;4;15;(Arnett et al., 2010);
+Coleoptera Passalidae;800;18;80;(Parker, 1982);
+Coleoptera Passandridae;109;3;35;(Leschen et al., 2010);
+Coleoptera Perimylopidae;19;6;10;(Parker, 1982);
+Coleoptera Phalacridae;640;1.2;4.5;(Parker, 1982);
+Coleoptera Phengodidae;250;3;65;(Parker, 1982);
+Coleoptera Phloeostichidae;14;2.4;15;(Leschen et al., 2010);
+Coleoptera Phloiophilidae;1;2;3;(Parker, 1982);
+Coleoptera Pleocomidae;50;15;45;(Parker, 1982);
+Coleoptera Prionoceridae;160;5.5;20;(Leschen et al., 2010);
+Coleoptera Propalticidae;30;1.2;1.8;(Parker, 1982);
+Coleoptera Prostomidae;30;5;10;(Arnett et al., 2010);
+Coleoptera Protocucujidae;7;3.5;5.8;(Leschen et al., 2010);
+Coleoptera Psephenidae;290;2;7;(Parker, 1982);
+Coleoptera Ptiliidae;650;0.3;2;(Parker, 1982);
+Coleoptera Ptilodactylidae;500;2;16;(Parker, 1982);
+Coleoptera Ptinidae;500;1;5;(Parker, 1982);
+Coleoptera Pyrochroidae;167;7;18;(Parker, 1982);
+Coleoptera Pythidae;23;3;20;(Parker, 1982);
+Coleoptera Rhipiceridae;70;10;25;(Parker, 1982);
+Coleoptera Ripiphoridae;400;2;38;(Parker, 1982);
+Coleoptera Salpingidae;300;1.5;12;(Parker, 1982);
+Coleoptera Scarabaeidae;27000;1;160;(Parker, 1982);
+Coleoptera Scirtidae;800;1.5;12;(Parker, 1982);
+Coleoptera Scraptiidae;500;1.3;15;(Parker, 1982);
+Coleoptera Scydmaenidae;4586;0.5;7;(Parker, 1982);
+Coleoptera Silphidae;200;7;45;(Parker, 1982);
+Coleoptera Silvanidae;500;2;15;(Arnett et al., 2010);
+Coleoptera Spercheidae;19;3;7;(Darilmaz & Kiyak, 2011);
+Coleoptera Sphaeritidae;5;4;6;(Parker, 1982);
+Coleoptera Sphindidae;59;1.5;3.5;(Leschen et al., 2010);
+Coleoptera Staphylinidae;56000;0.5;50;(Parker, 1982);
+Coleoptera Synchroidae;8;7;13;(Parker, 1982);
+Coleoptera Tenebrionidae;20000;1;50;(Parker, 1982);
+Coleoptera Tetratomidae;150;2.8;15;(Parker, 1982);
+Coleoptera Throscidae;150;1.2;6;(Leschen et al., 2010);
+Coleoptera Trictenotomidae;13;32;80;(Leschen et al., 2010);
+Coleoptera Trogossitidae;600;1;50;(Parker, 1982);
+Coleoptera Zopheridae;1700;2;40;(Parker, 1982);
+Collembola Entomobryidae;2189;1;10;(Arnett, 2000);Includes Paronellidae- 
+Collembola Hypogastruridae;682;0.8;3;(Arnett, 2000);
+Collembola Isotomidae;1346;0.7;6;(Arnett, 2000);
+Collembola Neanuridae;1546;2;3.5;(Arnett, 2000);includes Brachystomellidae 
+Collembola Neelidae;33;0.3;0.7;(Arnett, 2000);
+Collembola Onychiuridae;913;0.5;3;(Arnett, 2000);includes Odontellidae + Tullbergiidae 
+Collembola Poduridae;1;1.3;2;(Arnett, 2000)/(Hopkin, 1997);
+Collembola Sminthuridae;742;0.4;2.7;(Arnett, 2000);includes Bourletiellidae, Dicyrtomidae and Oncopoduridae 
+Collembola Tomoceridae;354;6;10;(Arnett, 2000);includes Katiannidae
+Dermaptera Anisolabididae;38;9;13;(Arnett, 2000);
+Dermaptera Apachyidae;15;11;25;(Boeseman, 1954);
+Dermaptera Chelisochidae;95;16;20;(Arnett, 2000);
+Dermaptera Forficulidae;485;10;18;(Arnett, 2000);
+Dermaptera Labiduridae;64;18;80;(Arnett, 2000)/(Berenbaum, 2007);
+Dermaptera Labiidae;495;4;7;(Arnett, 2000);
+Dermaptera Pygidicranidae;181;9;45;(Parker, 1982);
+Diplura Campodeidae;448;8;10;(Arnett, 2000);
+Diplura Japygoidea;590;8;50;(Arnett, 2000);
+Diptera Acartophthalmidae;6;2.5;3;(McAlpine et al., eds, 1987);
+Diptera Acroceridae;400;2;21;(Brown et al., 2009);
+Diptera Agromyzidae;3017;0.9;6.5;(Brown et al., 2009);
+Diptera Anisopodidae;196;2;18;(McAlpine et al., eds, 1981);
+Diptera Anthomyiidae;1941;2;12;(McAlpine et al., eds, 1987);
+Diptera Anthomyzidae;100;1.1;3.4;(Brown et al., 2009);
+Diptera Apioceridae;143;7.5;35;(McAlpine et al., eds, 1981);
+Diptera Apsilocephalidae;7;4.5;5.5;(Nagatomi et al., 1991);
+Diptera Asilidae;7531;3;60;(Brown et al., 2009);
+Diptera Asteiidae;138;1;5;(Brown et al., 2009);
+Diptera Atelestidae;22;1.5;4;(Wiegmann, 1989)/(Capinera, 2008);
+Diptera Athericidae;133;7;10;(Brown et al., 2009);
+Diptera Aulacigastridae;19;1.5;4;(Brown et al., 2009);
+Diptera Australimyzidae;9;1.3;2.6;(Brake & Mathis, 2007);
+Diptera Austroleptidae;8;3.1;5.3;(Nagatomi & Nagatomi, 1987);
+Diptera Axymyiidae;8;4;7;(Schneeberg et al., 2013);Data given as wing length
+Diptera Bibionidae;1382;2;15;(Brown et al., 2009);Includes Pleciidae
+Diptera Blephariceridae;331;3;13;(McAlpine et al., eds, 1981);
+Diptera Bombyliidae;5382;4;40;(Arnett, 2000);
+Diptera_Braulidae;7;1;1.7;(McAlpine et al., eds, 1987);
+Diptera Calliphoridae;1525;4;16;(McAlpine et al., eds, 1987);
+Diptera Canthyloscelidae;14;2;3.5;Manual of Neoarctic diptera;
+Diptera Carnidae;92;1;3;(Brown et al., 2009);
+Diptera Cecidomyiidae;6296;1;8;(McAlpine et al., eds, 1981);
+Diptera Ceratopogonidae;5902;1;6;(McAlpine et al., eds, 1981);
+Diptera Chaoboridae;89;1.4;10;(McAlpine et al., eds, 1981);
+Diptera Chironomidae;7290;1;13;(Brown et al., 2009);
+Diptera Chloropidae;2885;1;7;(Karpa, 2001);
+Diptera Chyromyidae;139;0.5;4.5;(Brown et al., 2009)/ (McAlpine et al., eds, 1987);
+Diptera Clusiidae;363;1.8;7.5;(McAlpine et al., eds, 1987);
+Diptera Coelopidae;35;3;16;(Brown et al., 2009);
+Diptera Conopidae;831;2.5;30;(Brown et al., 2009);
+Diptera Corethrellidae;111;0.6;2.5;(Brown et al., 2009);
+Diptera Culicidae;3725;3;9;(McAlpine et al., eds, 1981);
+Diptera Deuterophlebiidae;14;2;4;(Arnett, 2000);
+Diptera Diadocidiidae;39;3;10;(Bechev & Chandler, 2011);
+Diptera Diopsidae;194;4;12;(McAlpine et al., eds, 1987);
+Diptera Dixidae;197;4.5;7;(Arnett, 2000);
+Diptera Dolichopodidae;7358;0.8;9;(McAlpine et al., eds, 1981);
+Diptera Drosophilidae;4017;1;7;(Brown et al., 2009);
+Diptera Dryomyzidae;30;4;18;(Mathis & Sueyoshi, 2011);
+Diptera Empididae;3142;2;12;(Capinera, 2008);
+Diptera Ephydridae;1994;0.6;11;(Brown et al., 2009);
+Diptera Fanniidae;359;3.5;7.5;(Brown et al., 2009);
+Diptera Fergusoninidae;29;2;3;(Nelson et al., 2011);
+Diptera Glossinidae;25;6;14;(Wall & Shearer, 2008);
+Diptera Helcomyzidae;12;3;16;(Mathis, 2011a);
+Diptera Helosciomyzidae;23;5;11;(Barnes, 1981);
+Diptera Hesperinidae;10;4.7;12;(Papp, 2010);
+Diptera Heterocheilidae;2;4.2;6.5;(Mathis, 2011b);
+Diptera Hilarimorphidae;36;1.8;7.2;(McAlpine et al., eds, 1981);
+Diptera Hippoboscidae;271;1.5;12;(McAlpine et al., eds, 1987);
+Diptera Hybotidae;2005;1;9;(Capinera, 2008);
+Diptera Keroplatidae;993;2.8;8.8;(Brown et al., 2009) ;
+Diptera Lauxaniidae;1900;2;11;(Brown et al., 2009);
+Diptera Lonchaeidae;504;3;6;(Brown et al., 2009);
+Diptera Lonchopteridae;65;2;4;(Brown et al., 2009);
+Diptera Lygistorrhinidae;44;3;5;(Brown et al., 2009);
+Diptera Marginidae;3;1.5;2;(McAlpine, 1991);
+Diptera Micropezidae;583;5;17;(Brown et al., 2009);
+Diptera Milichiidae;288;1;7;(Brown et al., 2009);
+Diptera Muscidae;5218;2;20;(Brown et al., 2009);
+Diptera Mycetophilidae;4525;2.2;13.3;(McAlpine et al., eds, 1981);
+Diptera Mydidae;498;9;60;(McAlpine et al., eds, 1981);
+Diptera Mythicomyiidae;350;0.8;3;(Brown et al., 2009);
+Diptera Nemestrinidae;300;4;16;(Brown et al., 2009);
+Diptera Neurochaetidae;22;1.5;4.1;(McAlpine, 1993);
+Diptera Nycteribiidae;274;1.5;5.5;(Brown et al., 2009);
+Diptera Odiniidae;65;2.5;6;(Brown et al., 2009);
+Diptera Oestridae;176;8;25;(McAlpine et al., eds, 1987);
+Diptera Opomyzidae;61;2;4.4;(McAlpine et al., eds, 1987);
+Diptera Pachyneuridae;8;5;6;(Arnett, 2000);
+Diptera Pallopteridae;71;3;5;(McAlpine et al., eds, 1987);
+Diptera Pelecorhynchidae;49;4;18;(McAlpine et al., eds, 1981);
+Diptera Periscelididae;91;2.5;5;(Brown et al., 2009);
+Diptera Perissommatidae;9;1;2;(Colless, 1969);
+Diptera Phoridae;4200;0.5;6;(Brown et al., 2009);
+Diptera Piophilidae;83;3;8;(Brown et al., 2009);
+Diptera Pipunculidae;1428;2;11.5;(Brown et al., 2009);
+Diptera Platypezidae;277;1.4;10;(Brown et al., 2009);
+Diptera Platystomatidae;1164;2.5;20;(Brown et al., 2009);
+Diptera Psilidae;322;3;12;(Brown et al., 2009);
+Diptera Psychodidae;3026;1;5;(Brown et al., 2009);
+Diptera Ptychopteridae;156;7;14;(Brown et al., 2009);
+Diptera Pyrgotidae;351;5;30;(Brown et al., 2009);
+Diptera Rhagionidae;756;4;12;(Brown et al., 2009);
+Diptera Rhinophoridae;174;3.5;8;(Brown et al., 2009);
+Diptera Richardiidae;178;3;15;(Brown et al., 2009);
+Diptera Sarcophagidae;3094;5;25;(Brown et al., 2009);
+Diptera Scathophagidae;419;3;13;(McAlpine et al., eds, 1987);
+Diptera Scatopsidae;407;0.6;4.1;(McAlpine et al., eds, 1981);
+Diptera Scenopinidae;420;1;8.5;(Oosterbroek, 1998);
+Diptera Sciaridae;2455;1;11;(McAlpine et al., eds, 1981);
+Diptera Sciomyzidae;618;2;13;(Brown et al., 2009);
+Diptera Sepsidae;345;2;7;(Brown et al., 2009);
+Diptera Simuliidae;2121;1;5.5;(McAlpine et al., eds, 1981);
+Diptera Somatiidae;7;3.5;5;(Brown et al., 2009);
+Diptera Sphaeroceridae;1571;0.7;6;(Brown et al., 2009);
+Diptera Stratiomyidae;2690;2;28;(Brown et al., 2009);
+Diptera Streblidae;237;0.7;5.5;(Brown et al., 2009);
+Diptera Strongylophthalmyiidae;45;2;6;(Palaczyk et al., 2013);
+Diptera Synneuridae;3;2;3.5;(McAlpine et al., eds, 1981);
+Diptera Syrphidae;6107;4;25;(Brown et al., 2009);
+Diptera Tabanidae;4434;6;30;(McAlpine et al., eds, 1981);
+Diptera Tachinidae;9626;3;25;(Brown et al., 2009);
+Diptera Tanyderidae;55;11;23;(Arnett, 2000);Data given as wingspan
+Diptera Tephritidae;4716;2;35;(Brown et al., 2009);
+Diptera Thaumaleidae;183;2;4.5;(Arnett, 2000);
+Diptera Therevidae;1143;2.5;15;(McAlpine et al., eds, 1981);
+Diptera Tipulidae;15770;6;60;(McAlpine et al., eds, 1981);
+Diptera Trichoceridae;183;3;9;(Brown et al., 2009);
+Diptera Ulidiidae;678;2;14;(Brown et al., 2009);
+Diptera Vermileonidae;61;7;12;(Brown et al., 2009);
+Diptera Xenasteiidae;13;1.2;2;(Evenhius, 2011);
+Diptera Xylomyidae;138;5;15;(McAlpine et al., eds, 1981);
+Diptera Xylophagidae;145;2;25;(McAlpine et al., eds, 1981);
+Embioptera;337;4;22;(Arnett, 2000);Represents Order
+Ephemeroptera Ameletidae;56;7;21;(Zloty & Pritchard, 1997);
+Ephemeroptera Ameletopsidae;6;15.5;22;(Mercado & Elliot, 2005);
+Ephemeroptera Ametropodidae;3;13;15;(Edmunds et al., 1976);Data as forewing length
+Ephemeroptera Baetidae;860;3;10;(Arnett, 2000);
+Ephemeroptera Baetiscidae;12;8;16;(Edmunds et al., 1976);Data as forewing length
+Ephemeroptera Behningiidae;7;12;18;(Parker, 1982);
+Ephemeroptera Caenidae;211;2;6;(Arnett, 2000);
+Ephemeroptera Coloburiscidae;6;13;18;(Marsh, 2004);
+Ephemeroptera Dipteromimidae;2;13;23.5;(Tojo & Matsukawa, 2003);
+Ephemeroptera Ephemerellidae;91;5;12;(Arnett, 2000);
+Ephemeroptera Ephemeridae;160;10;32;(Parker, 1982);
+Ephemeroptera Euthyplociidae;19;11;16;(Gillies, 1980);
+Ephemeroptera Heptageniidae;529;4;14;(Arnett, 2000);
+Ephemeroptera Ichthybotidae;2;19;22;(Phillips, 1930);
+Ephemeroptera Isonychiidae;30;9;16;(Arnett, 2000);
+Ephemeroptera Leptohyphidae;157;2;10;(Dominguez et al., 2006);
+Ephemeroptera Leptophlebiidae;623;4;12;(Edmunds et al., 1976);Data as forewing length
+Ephemeroptera Metretopodidae;13;9;16;(Edmunds et al., 1976);Data as forewing length
+Ephemeroptera_Neoephemeridae;7;6;13;(Bae & McCafferty, 1998);
+Ephemeroptera Nesameletidae;11;10.5;16.5;(Hitchings & Staniczek, 2003);
+Ephemeroptera Oligoneuriidae;54;6;10;(Edmunds et al., 1976);Data as forewing length
+Ephemeroptera Oniscigastridae;8;10;11;(Heckman, 2002);
+Ephemeroptera Palingeniidae;32;15;35;(Parker, 1982);
+Ephemeroptera Polymitarcyidae;84;12;35;(Parker, 1982);
+Ephemeroptera Potamanthidae;23;8;25;(Parker 1982);
+Ephemeroptera Prosopistomatidae;19;1.5;4.5;(Pearson & Penridge 1979);
+Ephemeroptera Rallidentidae;1;10.5;12;(Penniket 1966);
+Ephemeroptera Siphlaenigmatidae;1;8;9;(Penniket 1962);
+Ephemeroptera Siphlonuridae;49;9;13;(Arnett 2000);
+Ephemeroptera Tricorythidae;34;4;6.5;(Edmunds et al. 1976);Data as forewing length
+Grylloblattidae;27;10;30;(Arnett 2000);
+Hemiptera Acanthosomatidae;200;6;18;(Schuh & Slater 1995);
+Hemiptera Achilidae;503;3;13;(Capinera 2008);
+Hemiptera Achilixiidae;24;4;8;(Capinera 2008);
+Hemiptera Aetalionidae;42;3;30;(Deitz et al. 2010);
+Hemiptera Aleyrodoidea;1560;1;4;(Capinera 2008);
+Hemiptera Alydidae;250;8;20;(Schuh & Slater 1995);
+Hemiptera Anthocoridae;600;1.4;4.5;(Schuh & Slater 1995);
+Hemiptera Aphelocheiridae;400;3.5;11.5;(Schuh & Slater 1995);
+Hemiptera Aphidoidea;4375;1;8;(Capinera 2008);Includes Phylloxeroidea
+Hemiptera Aradidae;2000;3;11;(Schuh & Slater 1995);
+Hemiptera Belostomatidae;150;9;110;(Schuh & Slater 1995);
+Hemiptera Berytidae;100;2.5;11;(Schuh & Slater 1995);
+Hemiptera Caliscelidae;202;1;5;(Capinera 2008);
+Hemiptera Canopidae;8;5;7;(Schuh & Slater 1995);
+Hemiptera Cercopidae;2410;5;20;(Arnett 2000);Includes Aphrophoridae, Clastopteridae, Machaerotidae
+Hemiptera Cicadellidae;20000;1.7;28;(Evans 1966);
+Hemiptera Cicadidae;1300;10;100;(Capinera 2008);
+Hemiptera Cimicidae;100;2;12;(Schuh & Slater 1995);
+Hemiptera Cixiidae;2223;3;13;(Capinera 2008);
+Hemiptera Coccoidea;8000;0.6;35;(Arnett 2000);
+Hemiptera Colobathristidae;90;6;20;(Schuh & Slater 1995);
+Hemiptera Coreidae;1900;7;45;(Schuh & Slater 1995);
+Hemiptera Corixidae;600;2.5;15;(Schuh & Slater 1995);
+Hemiptera Cydnidae;617;2;20;(Schuh & Slater 1995);
+Hemiptera Delphacidae;2029;2;10;(Capinera 2008);
+Hemiptera Derbidae;1700;4;11;(Capinera 2008)/ (Arnett 2000);
+Hemiptera Dictyopharidae;731;3;33;(Capinera 2008);
+Hemiptera Dinidoridae;90;9;27;(Schuh & Slater 1995);
+Hemiptera Dipsocoridae;30;0.8;3;(Schuh & Slater 1995);
+Hemiptera Enicocephalidae;400;2;15;(Schuh & Slater 1995);
+Hemiptera Eurybrachyidae;189;7;29;(Capinera 2008);
+Hemiptera Flatidae;1446;4;32;(Capinera 2008);
+Hemiptera Fulgoridae;687;4;100;(Capinera 2008);
+Hemiptera Gelastocoridae;100;7;15;(Schuh & Slater 1995);
+Hemiptera Gerridae;620;1.6;36;(Schuh & Slater 1995);
+Hemiptera Hebridae;150;1.3;3.7;(Schuh & Slater 1995);
+Hemiptera Hermatobatidae;8;2.5;4;(Schuh & Slater 1995);
+Hemiptera Hydrometridae;110;2.7;22;(Schuh & Slater 1995);
+Hemiptera Hyocephalidae;3;8;15;Resh and Carde 2009;
+Hemiptera Idiostolidae;4;5;7;(Schuh & Slater 1995);
+Hemiptera Issidae;924;2;19;(Capinera 2008);
+Hemiptera Joppeicidae;1;2.5;3;(Schuh & Slater 1995);Modified to avoid zero variance
+Hemiptera Largidae;120;7;55;(Arnett 2000)/ (Schuh & Slater 1995);
+Hemiptera Leptopodidae;40;1.8;7;(Schuh & Slater 1995);
+Hemiptera Lestoniidae;2;3.5;5.6;(Schuh & Slater 1995);
+Hemiptera Lophopidae;138;5;15;(Capinera 2008);
+Hemiptera Lyctocoridae;27;2;6;(Schuh & Slater 1995);
+Hemiptera Lygaeidae;4400;1.2;12;(Schuh & Slater 1995);
+Hemiptera Macroveliidae;3;2.5;5.6;(Schuh & Slater 1995);
+Hemiptera Malcidae;20;3;4;(Schuh & Slater 1995);
+Hemiptera Meenoplidae;158;3;7;(Capinera 2008);
+Hemiptera Membracidae;3450;2;24;(Deitz et al. 2010);
+Hemiptera Mesoveliidae;35;1.2;4.2;(Schuh & Slater 1995);
+Hemiptera Microphysidae;30;1.5;3;(Schuh & Slater 1995);
+Hemiptera Miridae;10000;2;15;(Schuh & Slater 1995);
+Hemiptera Nabidae;400;7;11;(Arnett 2000);
+Hemiptera Naucoridae;500;5;20;(Schuh & Slater 1995);
+Hemiptera Nepidae;225;15;45;(Schuh & Slater 1995);
+Hemiptera Nogodinidae;286;4;17;(Capinera 2008);
+Hemiptera Notonectidae;350;5;15;(Schuh & Slater 1995);
+Hemiptera Ochteridae;50;4.5;9;(Schuh & Slater 1995);
+Hemiptera Paraphrynoveliidae;2;1.7;2.4;(Schuh & Slater 1995);
+Hemiptera Peloridiidae;12;2;5;(Resh & Cardé 2009);
+Hemiptera Pentatomidae;4500;4;20;(Schuh & Slater 1995);
+Hemiptera Phloeidae;3;20;30;(Schuh & Slater 1995);
+Hemiptera Piesmatidae;40;2.5;5;(Schuh & Slater 1995);
+Hemiptera Plataspidae;500;2;20;(Schuh & Slater 1995);
+Hemiptera Pleidae;40;1.5;3;(Schuh & Slater 1995);
+Hemiptera Plokiophilidae;6;1.2;3;(Schuh & Slater 1995);
+Hemiptera Psylloidea;2500;1;8;(Capinera 2008);
+Hemiptera Pyrrhocoridae;225;8;30;(Schuh & Slater 1995);
+Hemiptera Reduviidae;6700;7;40;(Schuh & Slater 1995);Includes Phymatidae
+Hemiptera Rhopalidae;200;4;15;(Schuh & Slater 1995);
+Hemiptera Ricaniidae;417;4;12;(Capinera 2008);
+Hemiptera Saldidae;265;2.3;7.4;(Schuh & Slater 1995);
+Hemiptera Schizopteridae;120;0.8;2;(Schuh & Slater 1995);
+Hemiptera Scutelleridae;500;5;20;(Schuh & Slater 1995);
+Hemiptera Stenocephalidae;30;8;15;(Schuh & Slater 1995);
+Hemiptera Termitaphididae;9;2;3;(Schuh & Slater 1995);
+Hemiptera Tessaratomidae;250;15;40;(Foottit & Adler 2009);
+Hemiptera Tettigometridae;73;3;11;(Capinera 2008);
+Hemiptera Thaumastocoridae;19;2;4.6;(Schuh & Slater 1995);
+Hemiptera Tingidae;2000;2;8;(Schuh & Slater 1995);
+Hemiptera Tropiduchidae;575;5;13;(Capinera 2008);
+Hemiptera Veliidae;720;1;10;(Schuh & Slater 1995);
+Hemiptera Velocipedidae;31;10;15;(Schuh & Slater 1995);
+Hymenoptera Agaonidae;757;1;3;(Parker 1982);
+Hymenoptera Ampulicidae;200;5;15;(Arnett 2000);
+Hymenoptera Anaxyelidae;1;7.5;8;(Parker 1982);Modified to avoid zero variance
+Hymenoptera Andrenidae;2938;4;22;(Arnett 2000);
+Hymenoptera Aphelinidae;1168;0.35;2.5;(Parker 1982);
+Hymenoptera Apidae;5751;3.5;27;(Arnett 2000);
+Hymenoptera Argidae;800;4;15;(Parker 1982);
+Hymenoptera Aulacidae;200;1;20;(Parker 1982);
+Hymenoptera Bethylidae;2000;1;20;(Parker 1982);
+Hymenoptera Blasticotomidae;10;6;10;(Parker 1982);
+Hymenoptera Braconidae;20000;2;15;(Parker 1982);
+Hymenoptera Bradynobaenidae;200;3;20;(Parker 1982);
+Hymenoptera Cephidae;80;5;25;(Parker 1982);
+Hymenoptera Ceraphronidae;350;0.5;5;(Parker 1982);
+Hymenoptera Chalcididae;1464;2;12;(Parker 1982);
+Hymenoptera Chrysididae;3000;2.5;20;(Parker 1982);
+Hymenoptera Cimbicidae;130;18;25;(Arnett 2000);
+Hymenoptera Colletidae;2545;3.5;20;(Arnett 2000);
+Hymenoptera Crabronidae;8774;6;20;(Arnett 2000);
+Hymenoptera Cynipidae;1000;1;8;(Parker 1982);
+Hymenoptera Diapriidae;2300;3;15;(Parker 1982);
+Hymenoptera Diprionidae;90;5;12;(Parker 1982);
+Hymenoptera Encyrtidae;3735;0.5;5;(Parker 1982);
+Hymenoptera Eucharitidae;423;3;10;(Parker 1982);
+Hymenoptera Eulophidae;4472;1;5;(Parker 1982);
+Hymenoptera Eupelmidae;907;1;8;(Parker 1982);
+Hymenoptera Eurytomidae;1424;3;5;(Parker 1982);
+Hymenoptera Evaniidae;500;2;15;(Parker 1982);
+Hymenoptera Figitidae;1500;1.5;5;(Parker 1982);
+Hymenoptera Formicidae;10000;1;33;(Arnett 2000)/(Lenhart et al. 2013);Sizes given based on workers
+Hymenoptera Gasteruptiidae;420;13;40;(Arnett 2000);
+Hymenoptera Halictidae;4338;4;10;(Arnett 2000);
+Hymenoptera Heloridae;7;4;7;(Parker 1982);
+Hymenoptera Ibaliidae;50;8;25;(Parker 1982);
+Hymenoptera Ichneumonidae;22000;3;40;(Parker 1982);
+Hymenoptera Liopteridae;50;4;15;(Parker 1982);
+Hymenoptera Maamingidae;2;1;2;(Early et al. 2001);
+Hymenoptera Megachilidae;4120;7;39;(Arnett 2000)/(Messer 1984);
+Hymenoptera Megalodontesidae;40;5;20;(Parker 1982);
+Hymenoptera Megalyridae;50;4;20;(Parker 1982);
+Hymenoptera Megaspilidae;450;1;5;(Parker 1982);
+Hymenoptera Melittidae;191;7;12;(Arnett 2000);
+Hymenoptera Monomachidae;20;7;22;(Parker 1982);
+Hymenoptera Mutillidae;5000;3;30;(Parker 1982);
+Hymenoptera Mymaridae;1424;0.2;2;(Parker 1982);
+Hymenoptera Mymarommatidae;9;0.3;0.8;(Gibson et al. 2007);
+Hymenoptera Orussidae;75;5;20;(Parker 1982);
+Hymenoptera Pamphiliidae;250;8;15;(Arnett 2000);
+Hymenoptera Pelecinidae;3;30;60;(Parker 1982);
+Hymenoptera Pergidae;500;7;10;(Arnett 2000);
+Hymenoptera Perilampidae;277;1.5;7;(Parker 1982);
+Hymenoptera Platygastridae;1100;0.5;5;(Parker 1982);
+Hymenoptera Plumariidae;20;3;10;(Parker 1982);
+Hymenoptera Pompilidae;4000;3;60;(Parker 1982);
+Hymenoptera Proctotrupidae;310;6;8;(Parker 1982);
+Hymenoptera Pteromalidae;3506;1;4;(Parker 1982);
+Hymenoptera Roproniidae;18;8;10;(Parker 1982);
+Hymenoptera Rotoitidae;2;0.7;0.9;(Bouček & Noyes 1987);
+Hymenoptera Sapygidae;80;6;22;(Parker 1982);
+Hymenoptera Scelionidae;3000;0.5;15;(Parker 1982);
+Hymenoptera Scolebythidae;3;7;10;(Cambra & Oliveira 2003);
+Hymenoptera Scoliidae;300;8;60;(Parker 1982);
+Hymenoptera Siricidae;95;20;40;(Parker 1982);
+Hymenoptera Sierolomorphidae;10;3.5;6;(Parker 1982);
+Hymenoptera Sphecidae;724;18;55;(Arnett 2000);
+Hymenoptera Stenotritidae;21;14;20.5;(Houston 1983);
+Hymenoptera Stephanidae;200;4;40;(Parker 1982);
+Hymenoptera Tenthredinidae;4000;3;20;(Parker 1982);
+Hymenoptera Tetracampidae;50;0.5;2;(Doganler 2003);
+Hymenoptera Tiphiidae;1500;4;30;(Parker 1982);
+Hymenoptera Torymidae;986;1;15;(Parker 1982);
+Hymenoptera Trichogrammatidae;839;0.5;1;(Parker 1982);
+Hymenoptera Trigonalidae;100;8;17;(Parker 1982);
+Hymenoptera Vanhorniidae;5;3;10;(Arnett 2000);
+Hymenoptera Vespidae;4000;8;25;(Arnett 2000);
+Hymenoptera Xiphydriidae;100;7;25;(Parker 1982);
+Hymenoptera Xyelidae;50;5;15;(Parker 1982);
+Isoptera;2658;4;20;(Robinson 2005);Sizes given based on winged forms 
+Lepidoptera Acanthopteroctetidae;5;4;6;(Capinera 2008);Data given as wingspan
+Lepidoptera Acrolophidae;300;4;28;(Capinera 2008);Data given as wingspan
+Lepidoptera Adelidae;294;2;11;(Arnett 2000);Data given as wingspan
+Lepidoptera Agathiphagidae;2;3;5;(Capinera 2008);Data given as wingspan
+Lepidoptera Agonoxenidae;4;2;6;(Capinera 2008);Data given as wingspan
+Lepidoptera Aididae;6;4;39;(Capinera 2008);Data given as wingspan
+Lepidoptera Alucitidae;216;2;10;(Capinera 2008);Data given as wingspan
+Lepidoptera Amphisbatidae;21;7;8;(Capinera 2008);Data given as wingspan
+Lepidoptera Andesianidae;3;10;23;(Capinera 2008);Data given as wingspan
+Lepidoptera Anomoeotidae;40;5;8;(Capinera 2008);Data given as wingspan
+Lepidoptera Anthelidae;94;9;68;(Capinera 2008);Data given as wingspan
+Lepidoptera Apatelodidae;145;10;37;(Capinera 2008);Data given as wingspan
+Lepidoptera Arctiidae;6000;3;44;(Capinera 2008);Data given as wingspan
+Lepidoptera Argyresthiidae;157;2;5;(Capinera 2008);Data given as wingspan
+Lepidoptera Arrhenophanidae;26;5;29;(Capinera 2008);Data given as wingspan
+Lepidoptera Autostichidae;585;4;7;(Capinera 2008);Data given as wingspan
+Lepidoptera Batrachedridae;99;2;9;(Capinera 2008);Data given as wingspan
+Lepidoptera Blastobasidae;377;1;11;(Capinera 2008);Data given as wingspan
+Lepidoptera Bombycidae;185;10;33;(Capinera 2008);Data given as wingspan
+Lepidoptera Brachodidae;137;3;17;(Capinera 2008);Data given as wingspan
+Lepidoptera Brahmaeidae;44;18;66;(Capinera 2008);Data given as wingspan
+Lepidoptera Bucculatricidae;297;2;5;(Capinera 2008);Data given as wingspan
+Lepidoptera Callidulidae;49;8;14;(Capinera 2008);Data given as wingspan
+Lepidoptera Carposinidae;283;3;14;(Capinera 2008);Data given as wingspan
+Lepidoptera Carthaeidae;1;28;37;(Capinera 2008);Data given as wingspan
+Lepidoptera Castniidae;113;10;82;(Capinera 2008);Data given as wingspan
+Lepidoptera Choreutidae;406;3;10;(Capinera 2008);Data given as wingspan
+Lepidoptera Cimeliidae;6;8;11;(Capinera 2008);Data given as wingspan
+Lepidoptera Coleophoridae;1386;2;7;(Capinera 2008);Data given as wingspan
+Lepidoptera Copromorphidae;43;3;11;(Capinera 2008);Data given as wingspan
+Lepidoptera Cosmopterigidae;1792;2;11;(Capinera 2008);Data given as wingspan
+Lepidoptera Cossidae;971;5;136;(Capinera 2008);Data given as wingspan
+Lepidoptera Crinopterygidae;1;2;2.5;(Kristensen et al. 2007);Data given as forewing length
+Lepidoptera Cyclotornidae;5;3;10;(Capinera 2008);Data given as wingspan
+Lepidoptera Dalceridae;80;4;18;(Capinera 2008);Data given as wingspan
+Lepidoptera Douglasiidae;29;2;5;(Capinera 2008);Data given as wingspan
+Lepidoptera Drepanidae;660;6;22;(Capinera 2008);Data given as wingspan
+Lepidoptera Dudgeoneidae;57;11;29;(Capinera 2008);Data given as wingspan
+Lepidoptera Elachistidae;3197;2;9;(Capinera 2008);Data given as wingspan
+Lepidoptera Endromidae;56;11;27;(Capinera 2008);Data given as wingspan
+Lepidoptera Epicopeiidae;20;13;38;(Capinera 2008);Data given as wingspan
+Lepidoptera Epipyropidae;32;1;13;(Capinera 2008);Data given as wingspan
+Lepidoptera Eriocottidae;80;2;21;(Capinera 2008);Data given as wingspan
+Lepidoptera Eriocraniidae;28;2;5;(Capinera 2008);Data given as wingspan
+Lepidoptera Eupterotidae;339;8;47;(Capinera 2008);Data given as wingspan
+Lepidoptera Gelechiidae;4700;1;12;(Capinera 2008);Data given as wingspan
+Lepidoptera Geometridae;23002;3;42;(Capinera 2008);Data given as wingspan
+Lepidoptera Glyphidoceridae;49;5;7;(Capinera 2008);Data given as wingspan
+Lepidoptera Glyphipterigidae;535;2;14;(Capinera 2008);Data given as wingspan
+Lepidoptera Gracillariidae;1864;2;10;(Capinera 2008);Data given as wingspan
+Lepidoptera Hedylidae;36;15;27;(Capinera 2008);Data given as wingspan
+Lepidoptera Heliozelidae;123;1;3;(Capinera 2008);Data given as wingspan
+Lepidoptera Hepialidae;604;8;104;(Capinera 2008);Data given as wingspan
+Lepidoptera Hesperiidae;4113;7;37;(Capinera 2008);Data given as wingspan
+Lepidoptera Heterobathmiidae;3;3;4;(Capinera 2008);Data given as wingspan
+Lepidoptera Heterogynidae;10;3;9;(Capinera 2008);Data given as wingspan
+Lepidoptera Himantopteridae;40;5;12;(Capinera 2008);Data given as wingspan
+Lepidoptera Hyblaeidae;18;11;22;(Capinera 2008);Data given as wingspan
+Lepidoptera Immidae;245;5;14;(Capinera 2008);Data given as wingspan
+Lepidoptera Incurvariidae;50;2;6;(Capinera 2008);Data given as wingspan
+Lepidoptera Lacturidae;120;4;22;(Capinera 2008);Data given as wingspan
+Lepidoptera Lasiocampidae;1952;10;92;(Capinera 2008);Data given as wingspan
+Lepidoptera Lecithoceridae;1200;2;10;(Capinera 2008);Data given as wingspan
+Lepidoptera Lemoniidae;21;9;28;(Capinera 2008);Data given as wingspan
+Lepidoptera Limacodidae;1672;4;35;(Capinera 2008);Data given as wingspan
+Lepidoptera Lycaenidae;5201;2;33;(Capinera 2008);Data given as wingspan
+Lepidoptera Lymantriidae;2500;7;58;(Capinera 2008);Data given as wingspan
+Lepidoptera Lyonetiidae;220;2;5;(Capinera 2008);Data given as wingspan, includes Bedelliidae
+Lepidoptera Megalopygidae;232;5;44;(Capinera 2008);Data given as wingspan
+Lepidoptera Micropterigidae;154;1;3;(Capinera 2008);Data given as wingspan
+Lepidoptera Mimallonidae;194;10;28;(Capinera 2008);Data given as wingspan
+Lepidoptera Mnesarchaeidae;7;2;4;(Capinera 2008);Data given as wingspan
+Lepidoptera Momphidae;115;2;5;(Capinera 2008);Data given as wingspan
+Lepidoptera Neopseustidae;14;3;6;(Capinera 2008);Data given as wingspan
+Lepidoptera Nepticulidae;806;1;2;(Capinera 2008);Data given as wingspan
+Lepidoptera Noctuidae;30579;3;154;(Arnett 2000)/(Ohl & Thiele 2007);Data given as wingspan
+Lepidoptera Notodontidae;3800;9;57;(Capinera 2008);Data given as wingspan
+Lepidoptera Nymphalidae;6131;6;56;(Arnett 2000)/(Hogue 1993);Data given as wingspan
+Lepidoptera Oecophoridae;3304;2;30;(Capinera 2008);Data given as wingspan
+Lepidoptera Opostegidae;192;1;6;(Capinera 2008);Data given as wingspan
+Lepidoptera Palaephatidae;57;3;11;(Capinera 2008);Data given as wingspan
+Lepidoptera Papilionidae;566;10;83;(Capinera 2008);Data given as wingspan
+Lepidoptera Pieridae;1164;7;31;(Capinera 2008);Data given as wingspan
+Lepidoptera Plutellidae;150;2;17;(Capinera 2008);Data given as wingspan
+Lepidoptera Prodoxidae;98;2;11;(Capinera 2008);Data given as wingspan
+Lepidoptera Prototheoridae;12;2;15;(Capinera 2008);Data given as wingspan
+Lepidoptera Psychidae;1324;2;37;(Arnett 2000);Data given as wingspan
+Lepidoptera Pterolonchidae;8;11;12;(Arnett 2000);Data given as wingspan
+Lepidoptera Pterophoridae;1318;2;15;(Capinera 2008);Data given as wingspan
+Lepidoptera Pyralidae;5921;4;67;(Resh & Cardé 2009);Data given as Forewing length, includes Crambidae
+Lepidoptera Riodinidae;1532;8;13;(Arnett 2000);Data given as wingspan
+Lepidoptera Roeslerstammiidae;53;4;8;(Capinera 2008);Data given as wingspan
+Lepidoptera Saturniidae;2349;12;117;(Capinera 2008);Data given as wingspan
+Lepidoptera Sematuridae;40;19;44;(Capinera 2008);Data given as wingspan
+Lepidoptera Sesiidae;1397;5;34;(Resh & Cardé 2009);Data given as Forewing length
+Lepidoptera Somabrachyidae;8;7;8;(Capinera 2008);Data given as wingspan
+Lepidoptera Sphingidae;1461;11;94;(Capinera 2008);Data given as wingspan
+Lepidoptera Thyrididae;940;4;42;(Capinera 2008);Data given as wingspan
+Lepidoptera Tineidae;2093;2;21;(Capinera 2008);Data given as wingspan
+Lepidoptera Tineodidae;19;7;16;(Capinera 2008);Data given as wingspan
+Lepidoptera Tischeriidae;110;2;3;(Capinera 2008);Data given as wingspan
+Lepidoptera Tortricidae;10387;3;24;(Capinera 2008);Data given as wingspan
+Lepidoptera Uraniidae;686;10;50;(Capinera 2008);Data given as wingspan
+Lepidoptera Urodidae;66;4;14;(Capinera 2008);Data given as wingspan
+Lepidoptera Xyloryctidae;524;5;29;(Pohl et al. 2010)/(Zborowski & Edwards 2007);Data given as wingspan
+Lepidoptera Yponomeutidae;363;2;11;(Resh & Cardé 2009);Data given as Forewing length
+Lepidoptera Ypsolophidae;163;3;6;(Capinera 2008);Data given as wingspan
+Lepidoptera Zygaenidae;1036;4;40;(Resh & Cardé 2009);Data given as Forewing length
+Mantodea;2163;10;170;(Prete 1999);Represents Order
+Mantophasmatodea;16;10;30;(Buder & Klass 2013);
+Mecoptera Apteropanorpidae;1;5.5;11;(Palmer & Siebke 2008);
+Mecoptera Bittacidae;214;14;34;(Parker 1982);
+Mecoptera Boreidae;38;2;7.5;(Parker 1982);
+Mecoptera Choristidae;12;11;14;(Riek 1973);Data as forewing length
+Mecoptera Meropeidae;2;10;12;(Arnett 2000);
+Mecoptera Nannochoristidae;9;5;9;(Byers 1989);Data given as wingspan
+Mecoptera Panorpidae;480;9;25;(Arnett 2000);
+Mecoptera Panorpodidae;19;7;17;(Byers 1990);
+Megaloptera Corydalidae;200;20;80;(Arnett 2000);
+Megaloptera Sialidae;70;13;18;(Arnett 2000);
+Neuroptera Ascalaphidae;430;40;80;(Arnett 2000);
+Neuroptera Berothidae;115;6;15;(Resh & Cardé 2009);Data given as Forewing length
+Neuroptera Chrysopidae;1200;10;25;(Arnett 2000);
+Neuroptera Coniopterygidae;450;2;3;(Arnett 2000);
+Neuroptera Hemerobiidae;550;6;12;(Arnett 2000);
+Neuroptera Ithonidae;53;21;40;(Arnett 2000);
+Neuroptera Mantispidae;400;20;35;(Arnett 2000);
+Neuroptera Myrmeleontidae;2100;40;80;(Arnett 2000);
+Neuroptera Nemopteridae;100;15;35;(Resh & Cardé 2009);Data given as Forewing length
+Neuroptera Nevrorthidae;12;6;10;(Resh & Cardé 2009);Data given as Forewing length
+Neuroptera Nymphidae;35;18;40;(Resh & Cardé 2009);Data given as Forewing length
+Neuroptera Osmylidae;160;15;30;(Resh & Cardé 2009);Data given as Forewing length
+Neuroptera Polystoechotidae;4;35;75;(Arnett 2000);
+Neuroptera Psychopsidae;26;10;35;(Resh & Cardé 2009);Data given as Forewing length
+Neuroptera Sisyridae;50;6;8;(Arnett 2000);
+Odonata Aeshnidae;428;50;100;(Garrison et al. 2006) ;Data given as wingspan
+Odonata Austropetaliidae;11;57;86;(Garrison et al. 2006);
+Odonata Chlorogomphidae;45;60;78;(Wilson undated);
+Odonata Cordulegastridae;51;55;88;(Garrison et al. 2006);
+Odonata Corduliidae;285;28;68;(Garrison et al. 2006);As subfamily of Libellulidae, Includes Synthemistidae
+Odonata Gomphidae;945;25.5;90;(Garrison et al. 2006);
+Odonata Libellulidae;970;17;63;(Garrison et al. 2006);
+Odonata Macromiidae;123;56;91;(Garrison et al. 2006);As subfamily of Libellulidae
+Odonata Neopetaliidae;1;57;58;(Garrison et al. 2006);
+Odonata Petaluridae;11;54;88;(Garrison et al. 2006);
+Odonata Epiophlebiidae;2;48;60;(Fleck et al. 2013);
+Odonata Calopterygidae;172;45;60;(Esquivel 1997);
+Odonata Chlorocyphidae;143;26;30;(Serrano-Meneses et al. 2008);
+Odonata Chorismagrionidae;1;38;40;(Morton. 1914);
+Odonata Coenagrionidae;1104;16;60;(Silsby 2001)/(Howarth & Mull 1992);
+Odonata Diphlebiidae;9;45;55;(Stewart 1980);
+Odonata Euphaeidae;68;26;38;(Hayashi 1990);
+Odonata Hemiphlebiidae;1;23;25;(Rivera 2014);
+Odonata Isostictidae;45;15;40;(Watson 1974);
+Odonata Lestidae;150;40;75;(Esquivel 1997);
+Odonata Megapodagrionidae;285;40;75;(Esquivel 1997);
+Odonata Perilestidae;19;50;55;(Esquivel 1997);
+Odonata Platycnemididae;222;40;50;(Silsby 2001);
+Odonata Platystictidae;189;40;50;(Esquivel 1997);
+Odonata Polythoridae;58;30;40;(Esquivel 1997);
+Odonata Protoneuridae;240;30;35;(Esquivel 1997);
+Odonata Pseudolestidae;NA;NA;NA;;
+Odonata Pseudostigmatidae;19;80;120;(Esquivel 1997);
+Odonata Synlestidae;33;35;60;(Picker et al. 2004);Data given as wingspan
+Orthoptera Acrididae;6016;9;120;(Parker 1982);
+Orthoptera Cylindrachetidae;16;35;75;(Günther 1992)/(Bailey 2007);
+Orthoptera Eumastacoidae;645;10;45;(Arnett 2000);Includes Euschmidtiidae, Episactidae, Chorotypidae and Thericleidae
+Orthoptera Lentulidae;35;12;25;(Parker 1982);
+Orthoptera Pamphagidae;448;30;90;(Parker 1982);
+Orthoptera Pneumoridae;17;11.5;100;(Parker 1982);
+Orthoptera Proscopiidae;214;25;165;(Parker 1982);
+Orthoptera Pyrgomorphidae;455;10;90;(Parker 1982);
+Orthoptera Romaleidae;465;18;80;(Arnett 2000);
+Orthoptera Tanaoceridae;3;10.3;25;(Parker 1982);
+Orthoptera Tetrigidae;1246;6;16;(Arnett 2000);
+Orthoptera Tridactylidae;201;4;15;(Naskrecki 2001);Includes Rhipipterygidae
+Orthoptera Trigonopterygidae;16;29;40;(Ng et al. 2011);
+Orthoptera Xyronotidae;4;17;30;(Parker 1982);
+Orthoptera Anostostomatidae;206;20;80;(Pratt et al. 2008);
+Orthoptera Gryllacrididae;675;7;50;(Arnett 2000);
+Orthoptera Gryllidae;4664;4;50;(Otte & Alexander 1983);
+Orthoptera Gryllotalpidae;100;20;40;(Arnett 2000);
+Orthoptera Myrmecophilidae;8;2;4;(Arnett 2000);
+Orthoptera Prophalangopsidae;71;17;30;(Walker 2013);
+Orthoptera Rhaphidophoridae;497;10;30;(Richards 1968)/(Richards 1959);
+Orthoptera Stenopelmatidae;28;30;50;(Arnett 2000);
+Orthoptera Tettigoniidae;6827;5;90;(Rentz 2010);
+Phasmatodea Agathemeridae;8;40;70;(Zompro 2004);
+Phasmatodea Aschiphasmatidae;96;20;60;(Ng et al. 2011);
+Phasmatodea Bacillidae;54;40;110;(Scali et al. 2012) /(Picker et al. 2004);
+Phasmatodea Diapheromeridae;1210;17.5;140;(Zompro 1999)/ (Brock & Hasenpusch 2009);
+Phasmatodea Heteropterygidae;103;20;150;(Ng et al. 2011);
+Phasmatodea Phasmatidae;991;50;357;(Ng et al. 2011)/ (Hennemann & Conle 2008);
+Phasmatodea Phylliidae;51;24;90;(Zompro 2001)/(Ng et al. 2011);
+Phasmatodea Pseudophasmatoidea;406;17.5;250;(Zompro 1998)/(Picker et al. 2004);Includes Heteronemiidae
+Phasmatodea Timematidae;21;12;25;(Arnett 2000);
+Phthiraptera Boopidae;55;1.3;3.14;(Parker 1982);
+Phthiraptera Gyropidae;93;0.8;1;(Parker 1982);
+Phthiraptera Haematomyzidae;3;1.9;3;(Parker 1982);
+Phthiraptera Heptapsogasteridae;130;0.81;4.44;(Parker 1982);
+Phthiraptera Laemobothriidae;20;6.5;11;(Parker 1982);
+Phthiraptera Menoponidae;1039;1.1;6;(Parker 1982);
+Phthiraptera Philopteridae;2698;1.12;9.72;(Parker 1982);
+Phthiraptera Ricinidae;109;1.6;5.5;(Parker 1982);
+Phthiraptera Trichodectidae;362;0.92;2.73;(Parker 1982);
+Phthiraptera Anoplura;446;0.5;5;(Arnett 2000);includes, Echinophthiriidae, Hoplopleuridae, Linognathidae, Pedicinidae, Pediculidae, Pthiridae and Polyplacidae
+Plecoptera Austroperlidae;15;10;35;(Parker 1982);
+Plecoptera Capniidae;287;3;25;(Parker 1982);
+Plecoptera Chloroperlidae;187;6;40;(Parker 1982);
+Plecoptera Diamphipnoidae;6;25;45;(Parker 1982);
+Plecoptera Eustheniidae;23;15;35;(Parker 1982);
+Plecoptera Gripopterygidae;270;5;25;(Michaelis et al. 2011);
+Plecoptera Leuctridae;360;6;13;(Arnett 2000);
+Plecoptera Nemouridae;674;6;15;(Arnett 2000);
+Plecoptera Notonemouridae;118;5;8;(Picker et al. 2004);
+Plecoptera Peltoperlidae;69;34;49;(Arnett 2000);
+Plecoptera Perlidae;965;10;50;(Parker 1982);
+Plecoptera Perlodidae;310;8;50;(Parker 1982);
+Plecoptera Pteronarcyidae;12;38;63;(Arnett 2000);
+Plecoptera Scopuridae;8;16;25;(Jin & Bae 2005);
+Plecoptera Taeniopterygidae;103;10;25;(Arnett 2000);
+Protura;712;0.6;2.5;(Arnett 2000);
+Psocoptera Amphientomidae;100;2.3;5;(New & Lienhard 2007);
+Psocoptera Amphipsocidae;180;2.8;5.5;(New & Lienhard 2007);
+Psocoptera Archipsocidae;81;1.2;1.8;(New & Lienhard 2007);
+Psocoptera Caeciliusidae;566;2.5;4.5;(New & Lienhard 2007);
+Psocoptera Calopsocidae;34;4.3;7;(New & Lienhard 2007);
+Psocoptera Ectopsocidae;177;2;2.5;(New & Lienhard 2007);
+Psocoptera Elipsocidae;129;2;2.6;(New & Lienhard 2007);
+Psocoptera Epipsocidae;138;2.5;5.7;(New & Lienhard 2007);
+Psocoptera Hemipsocidae;24;2.5;2.8;(New & Lienhard 2007);
+Psocoptera Lachesillidae;271;1.8;2.2;(New & Lienhard 2007);
+Psocoptera Lepidopsocidae;206;2;2.5;(New & Lienhard 2007);
+Psocoptera Liposcelididae;181;1;1.5;(New & Lienhard 2007);
+Psocoptera Mesopsocidae;75;3.8;4.2;(New & Lienhard 2007);
+Psocoptera Myopsocidae;159;3;5;(Arnett 2000);
+Psocoptera Pachytroctidae;87;1.4;1.8;(New & Lienhard 2007);
+Psocoptera Peripsocidae;235;2;4;(New & Lienhard 2007);
+Psocoptera Philotarsidae;111;2.2;3.8;(New & Lienhard 2007);
+Psocoptera Prionoglarididae;7;3;3.4;(New & Lienhard 2007);
+Psocoptera Pseudocaeciliidae;899;2.5;8;(New & Lienhard 2007);
+Psocoptera Psilopsocidae;300;1.9;3.2;(New & Lienhard 2007);
+Psocoptera Psocidae;7;3.2;5.4;(New & Lienhard 2007);
+Psocoptera Psoquillidae;27;1.1;2;(New & Lienhard 2007);
+Psocoptera Psyllipsocidae;26;1.3;2;(New & Lienhard 2007);
+Psocoptera Stenopsocidae;95;3.5;4.5;(New & Lienhard 2007);
+Psocoptera Trichopsocidae;11;2;2.5;(Arnett 2000);
+Psocoptera Troctopsocidae;22;1.4;4.1;(New & Lienhard 2007);
+Psocoptera Trogiidae;52;1.6;2.5;(New & Lienhard 2007);
+Raphidioptera ;225;5;20;(Resh & Cardé 2009);Data as Forewing length
+Siphonaptera ;2078;1;10;(Whiting et al. 2008);Represents “Order”
+Strepsiptera;590;1;7.5;(Parker 1982);
+Thysanoptera Aeolothripidae;201;1.4;2.6;(Treherne 1919);
+Thysanoptera Heterothripidae;76;0.6;1.5;(Retana-Salazar 2009);
+Thysanoptera Phlaeothripidae;3532;2;14;(Lewis 1973);
+Thysanoptera Thripidae;2066;1;3;(Arnett 2000);
+Trichoptera Anomalopsychidae;27;4;8;(Holzenthal & Flint Jr 1995);
+Trichoptera Apataniidae;203;4;13;(Ivanov & Menshutkina 1996);Data as Forewing length
+Trichoptera Atriplectididae;6;7;10;(Neboiss 1986);Data as wingspan
+Trichoptera Beraeidae;57;4;5;(Arnett 2000);
+Trichoptera Brachycentridae;111;6;11;(Arnett 2000);
+Trichoptera Calamoceratidae;182;6;10;(Neboiss 1986);Data as wingspan
+Trichoptera Calocidae;23;2;10;(Arnett 2000) /(Neboiss 1986);Data as wingspan
+Trichoptera Chathamiidae;5;6;9;(Neboiss 1986);Data as wingspan
+Trichoptera Conoesucidae;43;4;10;(Neboiss 1986);Data as wingspan
+Trichoptera Dipseudopsidae;114;4;14;(Olah & Johanson 2010);Data as forewing length
+Trichoptera Ecnomidae;469;2;7;(Neboiss 1986);Data as wingspan
+Trichoptera Glossosomatidae;682;3;10;(Neboiss 1986);Data as wingspan
+Trichoptera Goeridae;184;4;10;(Parker 1998)/(Greenhalgh & Ovenden 2004) ;Data as forewing length
+Trichoptera Helicophidae;44;3;6;(Neboiss 1986);Data as wingspan
+Trichoptera Helicopsychidae;269;4;6;(Neboiss 1986);Data as wingspan
+Trichoptera Hydrobiosidae;407;4;13;(Neboiss 1986);Data as wingspan
+Trichoptera Hydropsychidae;1808;3;21;(Neboiss 1986) /(Picker et al. 2004);Data as wingspan
+Trichoptera Hydroptilidae;2124;1.5;4;(Neboiss 1986);Data as wingspan
+Trichoptera Kokiriidae;15;5;9;(Neboiss 1986);Data as wingspan
+Trichoptera Lepidostomatidae;471;8;10;(Arnett 2000);
+Trichoptera Leptoceridae;2020;4;15;(Neboiss 1986);Data as wingspan
+Trichoptera Limnephilidae;880;7;23;(Neboiss 1986);Data as wingspan
+Trichoptera Limnocentropodidae;15;10;12;(Wiggins 1956);Synonym Kitagamiidae, Data as wingspan
+Trichoptera Molannidae;41;10;17;(Arnett 2000);
+Trichoptera Odontoceridae;154;5;14;(Neboiss 1986)/(Arnett 2000);Minimum as wingspan/ body length
+Trichoptera Oeconesidae;18;12;16;(Neboiss 1986);Data as wingspan
+Trichoptera Philopotamidae;1168;6;9;(Neboiss 1986);Data as wingspan
+Trichoptera Philorheithridae;30;6;13;(Neboiss 1986);Data as wingspan
+Trichoptera Phryganeidae;84;12;28;(Wiggins 1998);Data as forewing length
+Trichoptera Pisuliidae;19;6;19;(Morse 1974)/ (Picker et al. 2004);Maximum as wingspan
+Trichoptera Polycentropodidae;806;5;10;(Neboiss 1986);Data as wingspan
+Trichoptera Psychomyiidae;522;4;6;(Arnett 2000);
+Trichoptera Rhyacophilidae;774;8;13;(Arnett 2000);
+Trichoptera Sericostomatidae;107;8;14;(Picker et al. 2004);Data as wingspan
+Trichoptera Stenopsychidae;94;6;12;(Neboiss 1986);Data as wingspan
+Trichoptera Tasimiidae;9;4;6;(Neboiss 1986);Data as wingspan
+Trichoptera Uenoidae;31;7;9;(Houghton 2012);Data given as forewing length
+Trichoptera Xiphocentronidae;172;3;4;(Munoz-Quesada & Holzenthal 1997);Data given as forewing length
+Zoraptera;35;2;3;(Parker 1982);
+Zygentoma Lepidotrichidae;1;12;14;(Arnett 2000)/(Resh & Cardé 2009);
+Zygentoma Lepismatidae;200;8;20;(Arnett 2000);
+Zygentoma Nicoletiidae;30;4;29;(Arnett 2000)/(Espinasa et al. 2013);
