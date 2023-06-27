@@ -11,6 +11,9 @@ library(VIM)          # Provides functions for handling missing data
 
 # data --------------------------------------------------------------------
 
+# cluster taxonomy
+IBA_taxa <- read_tsv("../IBA_data_April2023/data/Sweden/CO1_cleaned_nochimera_cluster_taxonomy_SE_2019.tsv")
+
 # Read raw body mass data from CSV file and clean the column names
 raw_body_mass <- read_csv2("data/raw_data/body_mass_rainford_2016.csv") %>% clean_names()
 
@@ -28,7 +31,7 @@ tidy_body_mass <- raw_body_mass %>%
          taxon = str_replace_all(taxon, " ", "_")) %>% 
   mutate(higher_taxon = str_extract(taxon, "^([^_]+)"),
          family = str_extract(taxon, "(?<=_)[^_]+")) %>% # Note that some of these classifications are super orders / families
-  select(higher_taxon, family, length_min, length_max, mass_reference = reference)
+  select(higher_taxon, family, length_min, length_max, mass_reference = reference) 
 
 # larval feeding_niche -------------------------------------------------------
 
@@ -38,7 +41,7 @@ tidy_feeding_niche_hörren <- raw_feeding_niche_hörren %>%
   mutate_if(is.character, ~as.numeric(.x)) %>% 
   bind_cols(select(raw_feeding_niche_hörren, 1:2)) %>% 
   select(higher_taxon, family, everything()) %>% 
-  select(-sum_sp)
+  select(-sum_sp) 
 
 # feeding niche ------------------------------------------------------
 
@@ -51,8 +54,10 @@ tidy_feeding_niche_ronquist <- raw_feeding_niche_ronquist %>%
   rowwise() %>%
   mutate(sub_family = str_split(family, "-")[[1]][2],
          family     = str_extract(family, "([^-])+")) %>% 
-  select(higher_taxon, family, sub_family, main_feeding_niche, main_feeding_habitat) %>% 
-  ungroup()
+  select(higher_taxon, family, sub_family, 
+         main_feeding_niche_ronquist = main_feeding_niche, 
+         main_feeding_habitat_ronquist = main_feeding_habitat) %>% 
+  ungroup() 
 
 # metabolic trait data ----------------------------------------------------
 
@@ -67,10 +72,15 @@ View(tidy_feeding_niche_ronquist)    # Visualize tidy feeding niche data from Ro
 
 # Join all the tidy data frames into one
 all_traits <- full_join(tidy_body_mass, tidy_feeding_niche_hörren, by = c("higher_taxon", "family")) %>%
-  full_join(tidy_feeding_niche_ronquist, by = c("higher_taxon", "family"), multiple = "all")
+              full_join(tidy_feeding_niche_ronquist, by = c("higher_taxon", "family"), multiple = "all") %>% 
+              mutate(in_IBA = family %in% IBA_taxa$Family)
+
+
 
 # Save the combined data frame as an RDS file
 saveRDS(all_traits, "data/tidydata/all_traits.rds")
+
+View(all_traits)
 
 # Inspect missingness -----------------------------------------------------
 
