@@ -1,0 +1,1141 @@
+"","higher_taxon","family","length_min","length_max","mass_reference","larva_terrestrial","larva_aquatic","adult_terrestrial","adult_aquatic","phytophagous","zoophagous","mycetophagous","saprophagous","detritophagous","coprophagous","phyllophagous","saproxylic","sap_sucking","stem","flower","seed","gall_inducing","miners","roots","not_specified","predator","micropredator","parasite","parasitoid","necrophorous","sub_family","main_feeding_niche_ronquist","main_feeding_habitat_ronquist","in_IBA"
+"1","Blattodea","Blaberidae",2.5,75,"(Arnett, 2000)/(Hogue, 1993)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Temporary habitats",TRUE
+"2","Coleoptera","Carabidae",1,85,"(Beutel & Leschen, 2005) ",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"3","Coleoptera","Dytiscidae",1,48,"(Beutel & Leschen, 2005)",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"4","Coleoptera","Aderidae",1,4,"(Arnett et al., 2010)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"5","Coleoptera","Agyrtidae",4,14,"(Arnett et al., eds, 2000)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"6","Coleoptera","Anobiidae",1,9,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"7","Coleoptera","Anthicidae",1.5,15,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"8","Coleoptera","Anthribidae",1,20,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"9","Coleoptera","Attelabidae",1,18,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"10","Coleoptera","Bostrichidae",1,50,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Wood",TRUE
+"11","Coleoptera","Brentidae",3,80,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+"12","Coleoptera","Buprestidae",1.5,60,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0.9,0,0.1,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Wood",TRUE
+"13","Coleoptera","Byrrhidae",1.5,10,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"14","Coleoptera","Byturidae",2.5,8,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"15","Coleoptera","Cantharidae",1.5,30,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"16","Coleoptera","Cerambycidae",2,200,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0.9,0,0.1,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Wood",TRUE
+"17","Coleoptera","Cerylonidae",1,4,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"18","Coleoptera","Chrysomelidae",1,40,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0.8,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"19","Coleoptera","Ciidae",0.5,7,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Fungi",TRUE
+"20","Coleoptera","Clambidae",0.7,2,"(Parker, 1982)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"21","Coleoptera","Cleridae",2,25,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Wood",TRUE
+"22","Coleoptera","Coccinellidae",1,10,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Plants",TRUE
+"23","Coleoptera","Corylophidae",0.7,2.3,"(Parker, 1982)",1,0,1,0,0.2,0,0,0,0.8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"24","Coleoptera","Cryptophagidae",1,4,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"25","Coleoptera","Curculionidae",1,55,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0.4,0.1,0,0.1,0.1,0.1,0,0,0.2,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"26","Coleoptera","Dermestidae",1,12,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0,0,0.8,NA,"Saprophagous","Temporary habitats",TRUE
+"27","Coleoptera","Drilidae",3,10,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"28","Coleoptera","Elateridae",1.5,60,"(Parker, 1982)",1,0,1,0,0.5,0.5,0,0,0,0,0,0.7,0,0,0,0,0,0,0.3,0,1,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"29","Coleoptera","Endomychidae",1,18,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"30","Coleoptera","Erotylidae",2.5,25,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"31","Coleoptera","Eucnemidae",1.5,40,"(Leschen et al., 2010)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"32","Coleoptera","Geotrupidae",5,45,"(Arnett et al., 2010) ",1,0,1,0,0,0,0.2,0,0,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"33","Coleoptera","Helophoridae",2,9,"(Beutel & Leschen, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Water",TRUE
+"34","Coleoptera","Heteroceridae",1,8,"(Arnett et al., 2010)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"35","Coleoptera","Histeridae",0.5,20,"Parker et al 82",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Temporary habitats",TRUE
+"36","Coleoptera","Hydraenidae",1.2,3,"(Parker, 1982)",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"37","Coleoptera","Hydrophilidae",1,40,"(Parker, 1982)",0.4,0.6,0.4,0.6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"38","Coleoptera","Kateretidae",1.3,6,"(Hisamatsu, 2011)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0.9,0.1,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"39","Coleoptera","Laemophloeidae",1,5,"(Arnett et al., 2010)",1,0,1,0,1,0,0,0,0,0,0,0.8,0,0.2,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"40","Coleoptera","Lampyridae",4,30,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"41","Coleoptera","Latridiidae",1,3,"(Shockley et al., 2011)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"42","Coleoptera","Leiodidae",1,7,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"43","Coleoptera","Lucanidae",4,80,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"44","Coleoptera","Lycidae",3,22,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Predator","Soil",TRUE
+"45","Coleoptera","Lymexylidae",5,40,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Wood",TRUE
+"46","Coleoptera","Melandryidae",1.2,19,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Predator","Wood",TRUE
+"47","Coleoptera","Meloidae",5,33,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0.8,0,0,NA,"Phytophage-parasitoid","Soil",TRUE
+"48","Coleoptera","Melyridae",1,20,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,TRUE
+"49","Coleoptera","Monotomidae",1.3,5,"(Parker, 1982)",1,0,1,0,0.5,0,0,0,0.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"50","Coleoptera","Mordellidae",2,15,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0.1,0,0.9,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"51","Coleoptera","Mycetophagidae",0.8,6.5,"(Parker, 1982)",1,0,1,0,0.2,0,0.8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"52","Coleoptera","Nemonychidae",4,6,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"53","Coleoptera","Nitidulidae",0.9,14,"(Parker, 1982)",1,0,1,0,0.6,0,0,0.4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"54","Coleoptera","Oedemeridae",5,20,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0.5,0,0.5,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"55","Coleoptera","Orsodacnidae",4,15,"(Arnett et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"56","Coleoptera","Phalacridae",1.2,4.5,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"57","Coleoptera","Phloiophilidae",2,3,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"58","Coleoptera","Ptiliidae",0.3,2,"(Parker, 1982)",1,0,1,0,0.2,0,0,0.2,0.4,0.2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"59","Coleoptera","Ptinidae",1,5,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0.8,0,0,0,0,0,0,0,0.2,0,0,0,0,0,NA,"Phytophagous","Wood",TRUE
+"60","Coleoptera","Pyrochroidae",7,18,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"61","Coleoptera","Pythidae",3,20,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"62","Coleoptera","Ripiphoridae",2,38,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+"63","Coleoptera","Salpingidae",1.5,12,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"64","Coleoptera","Scarabaeidae",1,160,"(Parker, 1982)",1,0,1,0,0.2,0,0,0.2,0.1,0.5,0.1,0,0,0,0,0,0,0,0.9,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"65","Coleoptera","Scirtidae",1.5,12,"(Parker, 1982)",0,1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"66","Coleoptera","Scraptiidae",1.3,15,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"67","Coleoptera","Silphidae",7,45,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0.9,NA,"Saprophagous","Temporary habitats",TRUE
+"68","Coleoptera","Silvanidae",2,15,"(Arnett et al., 2010)",1,0,1,0,0.8,0,0,0,0.2,0,0,0.8,0,0,0,0,0,0,0,0.2,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"69","Coleoptera","Sphindidae",1.5,3.5,"(Leschen et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Fungi",TRUE
+"70","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Aleocharinae","Predator","Soil",TRUE
+"71","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Euaesthetinae","Predator","Soil",TRUE
+"72","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Habrocerinae","Predator","Soil",TRUE
+"73","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Micropeplinae","Saprophagous","Temporary habitats",TRUE
+"74","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Olisthaerinae","Predator","Wood",TRUE
+"75","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Omaliinae","Saprophagous","Temporary habitats",TRUE
+"76","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Oxyporinae","Predator","Fungi",TRUE
+"77","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Oxytelinae","Saprophagous","Temporary habitats",TRUE
+"78","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Paederinae","Predator","Soil",TRUE
+"79","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Phloeocharinae","Predator","Wood",TRUE
+"80","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Proteininae","Saprophagous","Temporary habitats",TRUE
+"81","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Pselaphinae","Saprophagous","Soil",TRUE
+"82","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Scaphidiinae","Saprophagous","Fungi",TRUE
+"83","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Scydmaeninae","Saprophagous","Soil",TRUE
+"84","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Staphylininae","Predator","Temporary habitats",TRUE
+"85","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Steninae","Predator","Soil",TRUE
+"86","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Tachyporinae","Predator","Soil",TRUE
+"87","Coleoptera","Staphylinidae",0.5,50,"(Parker, 1982)",1,0,1,0,0.1,0.7,0.1,0,0.1,0,0,0.5,0,0,0.5,0,0,0,0,0,0.7,0,0.3,0,0,"Trichophyinae","Predator","Soil",TRUE
+"88","Coleoptera","Tenebrionidae",1,50,"(Parker, 1982)",1,0,1,0,0.6,0,0.2,0,0.2,0,0,0.5,0,0,0,0,0,0,0.1,0.4,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"89","Coleoptera","Tetratomidae",2.8,15,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"90","Coleoptera","Throscidae",1.2,6,"(Leschen et al., 2010)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"91","Coleoptera","Trogossitidae",1,50,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Wood",TRUE
+"92","Coleoptera","Zopheridae",2,40,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Wood",TRUE
+"93","Collembola","Entomobryidae",1,10,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"94","Collembola","Hypogastruridae",0.8,3,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"95","Collembola","Isotomidae",0.7,6,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"96","Collembola","Neanuridae",2,3.5,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"97","Collembola","Neelidae",0.3,0.7,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"98","Collembola","Onychiuridae",0.5,3,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"99","Collembola","Sminthuridae",0.4,2.7,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Plants",TRUE
+"100","Collembola","Tomoceridae",6,10,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"101","Dermaptera","Forficulidae",10,18,"(Arnett, 2000)",1,0,1,0,0.4,0.3,0,0,0.3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"102","Diplura","Campodeidae",8,10,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Soil",TRUE
+"103","Diptera","Acartophthalmidae",2.5,3,"(McAlpine et al., eds, 1987)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"104","Diptera","Acroceridae",2,21,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Predator-parasitoid","Soil",TRUE
+"105","Diptera","Agromyzidae",0.9,6.5,"(Brown et al., 2009)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"106","Diptera","Anisopodidae",2,18,"(McAlpine et al., eds, 1981)",1,0,1,0,0.2,0,0,0,0.8,0,0,0,0,0,0,0,0,0,0.5,0.5,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"107","Diptera","Anthomyiidae",2,12,"(McAlpine et al., eds, 1987)",1,0,1,0,0.3,0.1,0.3,0,0.3,0,0.1,0,0,0.7,0,0,0,0.1,0,0.1,0,0,1,0,0,NA,"Phytophagous","Plants",TRUE
+"108","Diptera","Anthomyzidae",1.1,3.4,"(Brown et al., 2009)",1,0,1,0,0.3,0,0.3,0,0.4,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"109","Diptera","Asilidae",3,60,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"110","Diptera","Asteiidae",1,5,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"111","Diptera","Atelestidae",1.5,4,"(Wiegmann, 1989)/(Capinera, 2008)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"112","Diptera","Aulacigastridae",1.5,4,"(Brown et al., 2009)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"113","Diptera","Bibionidae",2,15,"(Brown et al., 2009)",1,0,1,0,0.1,0,0,0,0.9,0,0,0.2,0,0,0,0,0,0,0.1,0.7,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"114","Diptera","Bombyliidae",4,40,"(Arnett, 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"115","Diptera","Calliphoridae",4,16,"(McAlpine et al., eds, 1987)",1,0,1,0,0,0.8,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,"Saprophagous","Temporary habitats",TRUE
+"116","Diptera","Carnidae",1,3,"(Brown et al., 2009)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"117","Diptera","Cecidomyiidae",1,8,"(McAlpine et al., eds, 1981)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"118","Diptera","Ceratopogonidae",1,6,"(McAlpine et al., eds, 1981)",0.1,0.9,1,0,0,0,0,0,0.9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"119","Diptera","Chaoboridae",1.4,10,"(McAlpine et al., eds, 1981)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"120","Diptera","Chironomidae",1,13,"(Brown et al., 2009)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"121","Diptera","Chloropidae",1,7,"(Karpa, 2001)",1,0,1,0,0.7,0.1,0,0,0.1,0.1,0,0,0,0.8,0.1,0,0.1,0,0,0,1,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"122","Diptera","Chyromyidae",0.5,4.5,"(Brown et al., 2009)/ (McAlpine et al., eds, 1987)",1,0,1,0,0,0,0,0,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"123","Diptera","Clusiidae",1.8,7.5,"(McAlpine et al., eds, 1987)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"124","Diptera","Coelopidae",3,16,"(Brown et al., 2009)",1,0,1,0,0.5,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"125","Diptera","Conopidae",2.5,30,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"126","Diptera","Culicidae",3,9,"(McAlpine et al., eds, 1981)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"127","Diptera","Diadocidiidae",3,10,"(Bechev & Chandler, 2011)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"128","Diptera","Dixidae",4.5,7,"(Arnett, 2000)",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"129","Diptera","Dolichopodidae",0.8,9,"(McAlpine et al., eds, 1981)",1,0,1,0,0.1,0.9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"130","Diptera","Drosophilidae",1,7,"(Brown et al., 2009)",1,0,1,0,0.2,0.1,0,0.7,0,0,0,0,0,1,0,0,0,0,0,0,0.8,0,0.2,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"131","Diptera","Dryomyzidae",4,18,"(Mathis & Sueyoshi, 2011)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"132","Diptera","Empididae",2,12,"(Capinera, 2008)",0.7,0.3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"133","Diptera","Ephydridae",0.6,11,"(Brown et al., 2009)",0.3,0.7,1,0,0.1,0.2,0,0,0.7,0,0,0,0,0,0,0,0,1,0,0,0.6,0,0.1,0,0.3,NA,"Saprophagous","Water",TRUE
+"134","Diptera","Fanniidae",3.5,7.5,"(Brown et al., 2009)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"135","Diptera","Hippoboscidae",1.5,12,"(McAlpine et al., eds, 1987)",1,0,1,0,0,0.1,0,0,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Parasite","Homeothermic animals",TRUE
+"136","Diptera","Hybotidae",1,9,"(Capinera, 2008)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"137","Diptera","Keroplatidae",2.8,8.8,"(Brown et al., 2009) ",1,0,1,0,0,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,"Saprophagous","Fungi",TRUE
+"138","Diptera","Lauxaniidae",2,11,"(Brown et al., 2009)",1,0,1,0,0.1,0,0,0,0.9,0,0,0.5,0,0,0,0,0.2,0.3,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"139","Diptera","Lonchaeidae",3,6,"(Brown et al., 2009)",1,0,1,0,0.7,0,0,0.2,0.1,0,0,0.9,0,0,0,0,0,0,0,0.1,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"140","Diptera","Lonchopteridae",2,4,"(Brown et al., 2009)",1,0,1,0,0.1,0,0.2,0,0.6,0.1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"141","Diptera","Micropezidae",5,17,"(Brown et al., 2009)",1,0,1,0,0.4,0,0.2,0.4,0,0,0,0,0,0,0,0,0,0,0.2,0.8,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"142","Diptera","Milichiidae",1,7,"(Brown et al., 2009)",1,0,1,0,0.3,0,0,0,0.7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"143","Diptera","Muscidae",2,20,"(Brown et al., 2009)",1,0,1,0,0.3,0.1,0.1,0.1,0.2,0.2,0,0.2,0,0,0,0,0,0.7,0,0.1,0.9,0,0,0,0.1,NA,"Saprophagous","Temporary habitats",TRUE
+"144","Diptera","Mycetophilidae",2.2,13.3,"(McAlpine et al., eds, 1981)",1,0,1,0,0,0.1,0.8,0,0.1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"145","Diptera","Mythicomyiidae",0.8,3,"(Brown et al., 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Soil",TRUE
+"146","Diptera","Odiniidae",2.5,6,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Predator","Wood",TRUE
+"147","Diptera","Oestridae",8,25,"(McAlpine et al., eds, 1987)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",TRUE
+"148","Diptera","Opomyzidae",2,4.4,"(McAlpine et al., eds, 1987)",1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"149","Diptera","Pachyneuridae",5,6,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Fungi",TRUE
+"150","Diptera","Pallopteridae",3,5,"(McAlpine et al., eds, 1987)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Wood",TRUE
+"151","Diptera","Periscelididae",2.5,5,"(Brown et al., 2009)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"152","Diptera","Phoridae",0.5,6,"(Brown et al., 2009)",1,0,1,0,0,0.4,0.2,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0.5,0,NA,"Saprophagous","Temporary habitats",TRUE
+"153","Diptera","Piophilidae",3,8,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,"Saprophagous","Temporary habitats",TRUE
+"154","Diptera","Pipunculidae",2,11.5,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"155","Diptera","Platypezidae",1.4,10,"(Brown et al., 2009)",1,0,1,0,0.2,0,0.8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"156","Diptera","Platystomatidae",2.5,20,"(Brown et al., 2009)",1,0,1,0,0.4,0.2,0,0,0.4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"157","Diptera","Psilidae",3,12,"(Brown et al., 2009)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Phytophagous","Soil",TRUE
+"158","Diptera","Psychodidae",1,5,"(Brown et al., 2009)",0.3,0.7,1,0,0.1,0.7,0,0,0.2,0,0,0,0,0,0,0,0,0,0,1,0,0.8,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"159","Diptera","Ptychopteridae",7,14,"(Brown et al., 2009)",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"160","Diptera","Rhagionidae",4,12,"(Brown et al., 2009)",1,0,1,0,0.1,0.8,0,0,0.1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"161","Diptera","Rhinophoridae",3.5,8,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Saprophage-parasitoid","Soil",TRUE
+"162","Diptera","Sarcophagidae",5,25,"(Brown et al., 2009)",1,0,1,0,0,0.8,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0.2,0,0,0.4,0.4,NA,"Saprophagous","Temporary habitats",TRUE
+"163","Diptera","Scathophagidae",3,13,"(McAlpine et al., eds, 1987)",1,0,1,0,0.3,0.3,0,0,0.1,0.3,0,0.2,0,0.2,0.2,0,0.2,0.2,0,0,1,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"164","Diptera","Scatopsidae",0.6,4.1,"(McAlpine et al., eds, 1981)",1,0,1,0,0.1,0,0.2,0,0.1,0.6,0,0.5,0,0,0,0,0,0,0,0.5,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"165","Diptera","Scenopinidae",1,8.5,"(Oosterbroek, 1998)",1,0,1,0,0.1,0.8,0,0,0.1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"166","Diptera","Sciaridae",1,11,"(McAlpine et al., eds, 1981)",1,0,1,0,0.1,0,0.4,0.5,0,0,0,0,0,0,0,0,0,0.2,0.2,0.6,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"167","Diptera","Sciomyzidae",2,13,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0.2,0.2,NA,"Predator","Water",TRUE
+"168","Diptera","Sepsidae",2,7,"(Brown et al., 2009)",1,0,1,0,0,0,0,0,0.2,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"169","Diptera","Simuliidae",1,5.5,"(McAlpine et al., eds, 1981)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"170","Diptera","Sphaeroceridae",0.7,6,"(Brown et al., 2009)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"171","Diptera","Stratiomyidae",2,28,"(Brown et al., 2009)",0.5,0.5,1,0,0.3,0,0,0,0.7,0,0,0.9,0,0,0,0,0,0,0,0.1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"172","Diptera","Strongylophthalmyiidae",2,6,"(Palaczyk et al., 2013)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"173","Diptera","Syrphidae",4,25,"(Brown et al., 2009)",0.8,0.2,1,0,0.3,0.5,0,0.1,0.1,0,0,0.3,0,0.3,0,0,0,0,0.3,0.1,1,0,0,0,0,NA,"Predator","Plants",TRUE
+"174","Diptera","Tabanidae",6,30,"(McAlpine et al., eds, 1981)",0,1,1,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"175","Diptera","Tachinidae",3,25,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"176","Diptera","Tephritidae",2,35,"(Brown et al., 2009)",1,0,1,0,1,0,0,0,0,0,0,0,0,0.5,0.4,0,0.1,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"177","Diptera","Thaumaleidae",2,4.5,"(Arnett, 2000)",0,1,1,0,0.2,0,0,0,0.8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"178","Diptera","Therevidae",2.5,15,"(McAlpine et al., eds, 1981)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"179","Diptera","Tipulidae",6,60,"(McAlpine et al., eds, 1981)",0.9,0.1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"180","Diptera","Trichoceridae",3,9,"(Brown et al., 2009)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"181","Diptera","Ulidiidae",2,14,"(Brown et al., 2009)",1,0,1,0,0.1,0,0,0.1,0.8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"182","Diptera","Xylomyidae",5,15,"(McAlpine et al., eds, 1981)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"183","Diptera","Xylophagidae",2,25,"(McAlpine et al., eds, 1981)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Predator","Wood",TRUE
+"184","Ephemeroptera","Ameletidae",7,21,"(Zloty & Pritchard, 1997)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"185","Ephemeroptera","Baetidae",3,10,"(Arnett, 2000)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"186","Ephemeroptera","Caenidae",2,6,"(Arnett, 2000)",0,1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"187","Ephemeroptera","Ephemerellidae",5,12,"(Arnett, 2000)",0,1,1,0,0.9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"188","Ephemeroptera","Ephemeridae",10,32,"(Parker, 1982)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"189","Ephemeroptera","Heptageniidae",4,14,"(Arnett, 2000)",0,1,1,0,0.3,0.3,0,0,0.4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"190","Ephemeroptera","Leptophlebiidae",4,12,"(Edmunds et al., 1976)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"191","Ephemeroptera","Metretopodidae",9,16,"(Edmunds et al., 1976)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Water",TRUE
+"192","Ephemeroptera","Siphlonuridae",9,13,"(Arnett 2000)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"193","Hemiptera","Acanthosomatidae",6,18,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"194","Hemiptera","Achilidae",3,13,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Wood",TRUE
+"195","Hemiptera","Anthocoridae",1.4,4.5,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Plants",TRUE
+"196","Hemiptera","Aradidae",3,11,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Wood",TRUE
+"197","Hemiptera","Berytidae",2.5,11,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"198","Hemiptera","Cicadellidae",1.7,28,"(Evans 1966)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"199","Hemiptera","Cimicidae",2,12,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Parasite","Homeothermic animals",TRUE
+"200","Hemiptera","Cixiidae",3,13,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"201","Hemiptera","Coreidae",7,45,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"202","Hemiptera","Cydnidae",2,20,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Soil",TRUE
+"203","Hemiptera","Delphacidae",2,10,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"204","Hemiptera","Flatidae",4,32,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+"205","Hemiptera","Fulgoridae",4,100,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+"206","Hemiptera","Gerridae",1.6,36,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Water",TRUE
+"207","Hemiptera","Lygaeidae",1.2,12,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"208","Hemiptera","Membracidae",2,24,"(Deitz et al. 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"209","Hemiptera","Microphysidae",1.5,3,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Soil",TRUE
+"210","Hemiptera","Miridae",2,15,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"211","Hemiptera","Nabidae",7,11,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Plants",TRUE
+"212","Hemiptera","Naucoridae",5,20,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Water",TRUE
+"213","Hemiptera","Pentatomidae",4,20,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"214","Hemiptera","Piesmatidae",2.5,5,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"215","Hemiptera","Pyrrhocoridae",8,30,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"216","Hemiptera","Reduviidae",7,40,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Plants",TRUE
+"217","Hemiptera","Rhopalidae",4,15,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"218","Hemiptera","Saldidae",2.3,7.4,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Soil",TRUE
+"219","Hemiptera","Scutelleridae",5,20,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"220","Hemiptera","Tingidae",2,8,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"221","Hymenoptera","Ampulicidae",5,15,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"222","Hymenoptera","Andrenidae",4,22,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"223","Hymenoptera","Aphelinidae",0.35,2.5,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"224","Hymenoptera","Apidae",3.5,27,"(Arnett 2000)",1,0,1,0,0.9,0.1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,NA,"Phytophagous","Plants",TRUE
+"225","Hymenoptera","Argidae",4,15,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"226","Hymenoptera","Aulacidae",1,20,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Wood",TRUE
+"227","Hymenoptera","Bethylidae",1,20,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophage-parasitoid","Soil",TRUE
+"228","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Agathidinae","Phytophage-parasitoid","Plants",TRUE
+"229","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Alysiinae","Saprophage-parasitoid","Temporary habitats",TRUE
+"230","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Aphidiinae","Phytophage-parasitoid","Plants",TRUE
+"231","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Brachistinae","Saprophage-parasitoid","Plants",TRUE
+"232","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Braconinae","Phytophage-parasitoid","Plants",TRUE
+"233","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Cardiochilinae","Phytophage-parasitoid","Plants",TRUE
+"234","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Cenocoeliinae","Phytophage-parasitoid","Wood",TRUE
+"235","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Charmontinae","Phytophage-parasitoid","Plants",TRUE
+"236","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Cheloninae","Phytophage-parasitoid","Plants",TRUE
+"237","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Doryctinae","Phytophage-parasitoid","Wood",TRUE
+"238","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Euphorinae","Phytophage-parasitoid","Plants",TRUE
+"239","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Exothecinae","Phytophage-parasitoid","Plants",TRUE
+"240","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Gnamptodontinae","Phytophage-parasitoid","Plants",TRUE
+"241","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Helconinae","Phytophage-parasitoid","Wood",TRUE
+"242","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Homolobinae","Phytophage-parasitoid","Plants",TRUE
+"243","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Hormiinae","Phytophage-parasitoid","Plants",TRUE
+"244","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Ichneutinae","Phytophage-parasitoid","Plants",TRUE
+"245","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Lysiterminae","Phytophage-parasitoid","Wood",TRUE
+"246","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Macrocentrinae","Phytophage-parasitoid","Plants",TRUE
+"247","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Microgastrinae","Phytophage-parasitoid","Plants",TRUE
+"248","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Microtypinae","Phytophage-parasitoid","Plants",TRUE
+"249","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Miracinae","Phytophage-parasitoid","Plants",TRUE
+"250","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Opiinae","Phytophage-parasitoid","Plants",TRUE
+"251","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Orgilinae","Phytophage-parasitoid","Plants",TRUE
+"252","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Pambolinae","Phytophage-parasitoid","Plants",TRUE
+"253","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Rhysipolinae","Phytophage-parasitoid","Plants",TRUE
+"254","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Rhyssalinae","Phytophage-parasitoid","Plants",TRUE
+"255","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Rogadinae","Phytophage-parasitoid","Plants",TRUE
+"256","Hymenoptera","Braconidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Sigalphinae","Phytophage-parasitoid","Plants",TRUE
+"257","Hymenoptera","Cephidae",5,25,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"258","Hymenoptera","Ceraphronidae",0.5,5,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"259","Hymenoptera","Chalcididae",2,12,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"260","Hymenoptera","Chrysididae",2.5,20,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"261","Hymenoptera","Cimbicidae",18,25,"(Arnett 2000)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"262","Hymenoptera","Colletidae",3.5,20,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"263","Hymenoptera","Crabronidae",6,20,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.9,0,0,0.1,0,NA,"Predator","Plants",TRUE
+"264","Hymenoptera","Cynipidae",1,8,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"265","Hymenoptera","Diapriidae",3,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Saprophage-parasitoid","Temporary habitats",TRUE
+"266","Hymenoptera","Diprionidae",5,12,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"267","Hymenoptera","Encyrtidae",0.5,5,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"268","Hymenoptera","Eulophidae",1,5,"(Parker 1982)",1,0,1,0,0.1,0.9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"269","Hymenoptera","Eupelmidae",1,8,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"270","Hymenoptera","Eurytomidae",3,5,"(Parker 1982)",1,0,1,0,0.5,0.5,0,0,0,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"271","Hymenoptera","Evaniidae",2,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Saprophage-parasitoid","Soil",TRUE
+"272","Hymenoptera","Figitidae",1.5,5,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Saprophage-parasitoid","Temporary habitats",TRUE
+"273","Hymenoptera","Formicidae",1,33,"(Arnett 2000)/(Lenhart et al. 2013)",1,0,1,0,0.1,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.9,0,0,0.1,0,NA,"Saprophagous","Soil",TRUE
+"274","Hymenoptera","Gasteruptiidae",13,40,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"275","Hymenoptera","Halictidae",4,10,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"276","Hymenoptera","Heloridae",4,7,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Predator-parasitoid","Plants",TRUE
+"277","Hymenoptera","Ibaliidae",8,25,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Wood",TRUE
+"278","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Acaenitinae","Phytophage-parasitoid","Wood",TRUE
+"279","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Adelognathinae","Phytophage-parasitoid","Plants",TRUE
+"280","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Agriotypinae","Saprophage-parasitoid","Water",TRUE
+"281","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Alomyinae","Phytophage-parasitoid","Plants",TRUE
+"282","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Anomaloninae","Phytophage-parasitoid","Plants",TRUE
+"283","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Banchinae","Phytophage-parasitoid","Plants",TRUE
+"284","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Brachycyrtinae","Predator-parasitoid","Plants",TRUE
+"285","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Campopleginae","Phytophage-parasitoid","Plants",TRUE
+"286","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Collyriinae","Phytophage-parasitoid","Plants",TRUE
+"287","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Cremastinae","Phytophage-parasitoid","Plants",TRUE
+"288","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Cryptinae","Phytophage-parasitoid","Plants",TRUE
+"289","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Ctenopelmatinae","Phytophage-parasitoid","Plants",TRUE
+"290","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Cylloceriinae","Saprophage-parasitoid","Soil",TRUE
+"291","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Diacritinae",NA,NA,TRUE
+"292","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Diplazontinae","Predator-parasitoid","Plants",TRUE
+"293","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Eucerotinae","Predator-parasitoid","Plants",TRUE
+"294","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Hybrizontinae","Saprophage-parasitoid","Soil",TRUE
+"295","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Ichneumoninae","Phytophage-parasitoid","Plants",TRUE
+"296","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Lycorininae","Phytophage-parasitoid","Plants",TRUE
+"297","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Mesochorinae","Predator-parasitoid","Plants",TRUE
+"298","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Metopiinae","Phytophage-parasitoid","Plants",TRUE
+"299","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Microleptinae","Saprophage-parasitoid","Water",TRUE
+"300","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Ophioninae","Phytophage-parasitoid","Plants",TRUE
+"301","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Orthocentrinae","Saprophage-parasitoid","Fungi",TRUE
+"302","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Orthopelmatinae","Phytophage-parasitoid","Plants",TRUE
+"303","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Oxytorinae",NA,NA,TRUE
+"304","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Pimplinae","Phytophage-parasitoid","Wood",TRUE
+"305","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Poemeniinae","Phytophage-parasitoid","Wood",TRUE
+"306","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Rhyssinae","Phytophage-parasitoid","Wood",TRUE
+"307","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Stilbopinae","Phytophage-parasitoid","Plants",TRUE
+"308","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Tersilochinae","Phytophage-parasitoid","Plants",TRUE
+"309","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Tryphoninae","Phytophage-parasitoid","Plants",TRUE
+"310","Hymenoptera","Ichneumonidae",3,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Xoridinae","Phytophage-parasitoid","Wood",TRUE
+"311","Hymenoptera","Megachilidae",7,39,"(Arnett 2000)/(Messer 1984)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"312","Hymenoptera","Megaspilidae",1,5,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Predator-parasitoid","Plants",TRUE
+"313","Hymenoptera","Melittidae",7,12,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"314","Hymenoptera","Mutillidae",3,30,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Soil",TRUE
+"315","Hymenoptera","Mymaridae",0.2,2,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"General parasitoid","Plants",TRUE
+"316","Hymenoptera","Mymarommatidae",0.3,0.8,"(Gibson et al. 2007)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,TRUE
+"317","Hymenoptera","Pamphiliidae",8,15,"(Arnett 2000)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"318","Hymenoptera","Perilampidae",1.5,7,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Predator-parasitoid","Plants",TRUE
+"319","Hymenoptera","Platygastridae",0.5,5,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"320","Hymenoptera","Pompilidae",3,60,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"321","Hymenoptera","Proctotrupidae",6,8,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Predator-parasitoid","Soil",TRUE
+"322","Hymenoptera","Pteromalidae",1,4,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"General parasitoid","Plants",TRUE
+"323","Hymenoptera","Sapygidae",6,22,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"324","Hymenoptera","Scelionidae",0.5,15,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Predator-parasitoid","Soil",TRUE
+"325","Hymenoptera","Siricidae",20,40,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophage-parasitoid","Wood",TRUE
+"326","Hymenoptera","Sphecidae",18,55,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Plants",TRUE
+"327","Hymenoptera","Tenthredinidae",3,20,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,0.8,0,0,0,0,0,0.1,0.1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"328","Hymenoptera","Tiphiidae",4,30,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Saprophage-parasitoid","Soil",TRUE
+"329","Hymenoptera","Torymidae",1,15,"(Parker 1982)",1,0,1,0,0.1,0.9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"330","Hymenoptera","Trichogrammatidae",0.5,1,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"331","Hymenoptera","Vespidae",8,25,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.9,0,0,0.1,0,NA,"Predator","Plants",TRUE
+"332","Hymenoptera","Xiphydriidae",7,25,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Wood",TRUE
+"333","Hymenoptera","Xyelidae",5,15,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,0.9,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"334","Lepidoptera","Adelidae",2,11,"(Arnett 2000)",1,0,1,0,1,0,0,0,0,0,0.2,0,0,0,0,0,0,0.6,0,0.2,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"335","Lepidoptera","Alucitidae",2,10,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"336","Lepidoptera","Argyresthiidae",2,5,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.5,0,0,0,0.2,0,0,0,0,0.3,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"337","Lepidoptera","Autostichidae",4,7,"(Capinera 2008)",1,0,1,0,0.3,0.2,0,0,0.5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,NA,"Saprophagous","Temporary habitats",TRUE
+"338","Lepidoptera","Batrachedridae",2,9,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"339","Lepidoptera","Blastobasidae",1,11,"(Capinera 2008)",1,0,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"340","Lepidoptera","Bucculatricidae",2,5,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.1,0,0,0,0,0,0,0.9,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"341","Lepidoptera","Choreutidae",3,10,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.9,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"342","Lepidoptera","Coleophoridae",2,7,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.3,0,0,0,0.3,0.3,0,0,0,0.1,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"343","Lepidoptera","Cosmopterigidae",2,11,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.2,0,0,0,0,0,0.2,0.6,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"344","Lepidoptera","Cossidae",5,136,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Wood",TRUE
+"345","Lepidoptera","Douglasiidae",2,5,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0.4,0,0,0,0.5,0,0.1,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"346","Lepidoptera","Drepanidae",6,22,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"347","Lepidoptera","Elachistidae",2,9,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"348","Lepidoptera","Endromidae",11,27,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"349","Lepidoptera","Eriocraniidae",2,5,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"350","Lepidoptera","Gelechiidae",1,12,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.8,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"351","Lepidoptera","Geometridae",3,42,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"352","Lepidoptera","Glyphipterigidae",2,14,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.1,0,0.9,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"353","Lepidoptera","Gracillariidae",2,10,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"354","Lepidoptera","Heliozelidae",1,3,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0.2,0,0,0,0.8,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"355","Lepidoptera","Hepialidae",8,104,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0.8,0,0,0,0,0,0,NA,"Phytophagous","Soil",TRUE
+"356","Lepidoptera","Hesperiidae",7,37,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"357","Lepidoptera","Incurvariidae",2,6,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"358","Lepidoptera","Lasiocampidae",10,92,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"359","Lepidoptera","Lycaenidae",2,33,"(Capinera 2008)",1,0,1,0,0.9,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,"Phytophagous","Plants",TRUE
+"360","Lepidoptera","Lyonetiidae",2,5,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"361","Lepidoptera","Micropterigidae",1,3,"(Capinera 2008)",1,0,1,0,0.7,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"362","Lepidoptera","Momphidae",2,5,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.1,0,0.7,0,0.2,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"363","Lepidoptera","Nepticulidae",1,2,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0.1,0,0,0,0.1,0.1,0.7,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"364","Lepidoptera","Noctuidae",3,154,"(Arnett 2000)/(Ohl & Thiele 2007)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"365","Lepidoptera","Notodontidae",9,57,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"366","Lepidoptera","Nymphalidae",6,56,"(Arnett 2000)/(Hogue 1993)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"367","Lepidoptera","Oecophoridae",2,30,"(Capinera 2008)",1,0,1,0,0.8,0,0,0,0.2,0,0,0.8,0,0,0,0,0,0,0,0.2,0,0,0,0,0,NA,"Phytophagous","Wood",TRUE
+"368","Lepidoptera","Opostegidae",1,6,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"369","Lepidoptera","Pieridae",7,31,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.8,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"370","Lepidoptera","Plutellidae",2,17,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"371","Lepidoptera","Psychidae",2,37,"(Arnett 2000)",1,0,1,0,0.5,0,0,0,0.5,0,0.2,0,0,0,0,0,0,0,0,0.8,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"372","Lepidoptera","Pterophoridae",2,15,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.2,0,0,0.4,0,0,0,0.2,0.1,0.1,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"373","Lepidoptera","Pyralidae",4,67,"(Resh & Cardé 2009)",1,0,1,0,0.8,0.1,0,0,0.1,0,0.8,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"374","Lepidoptera","Roeslerstammiidae",4,8,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"375","Lepidoptera","Saturniidae",12,117,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"376","Lepidoptera","Sesiidae",5,34,"(Resh & Cardé 2009)",1,0,1,0,1,0,0,0,0,0,0,0.7,0,0.3,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Wood",TRUE
+"377","Lepidoptera","Sphingidae",11,94,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"378","Lepidoptera","Tineidae",2,21,"(Capinera 2008)",1,0,1,0,0.1,0.1,0,0,0.8,0,0.3,0,0,0,0.1,0.3,0,0,0,0.3,0,0,0,0,1,NA,"Saprophagous","Temporary habitats",TRUE
+"379","Lepidoptera","Tischeriidae",2,3,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"380","Lepidoptera","Tortricidae",3,24,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"381","Lepidoptera","Urodidae",4,14,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"382","Lepidoptera","Yponomeutidae",2,11,"(Resh & Cardé 2009)",1,0,1,0,1,0,0,0,0,0,0.4,0,0,0.2,0,0,0,0.2,0,0.2,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"383","Lepidoptera","Ypsolophidae",3,6,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"384","Mecoptera","Boreidae",2,7.5,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"385","Mecoptera","Panorpidae",9,25,"(Arnett 2000)",1,0,1,0,0,0.1,0,0,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,"Saprophagous","Soil",TRUE
+"386","Megaloptera","Sialidae",13,18,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,"Predator","Water",TRUE
+"387","Neuroptera","Chrysopidae",10,25,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Plants",TRUE
+"388","Neuroptera","Coniopterygidae",2,3,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Plants",TRUE
+"389","Neuroptera","Hemerobiidae",6,12,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Plants",TRUE
+"390","Neuroptera","Myrmeleontidae",40,80,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",TRUE
+"391","Neuroptera","Sisyridae",6,8,"(Arnett 2000)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,"Predator","Water",TRUE
+"392","Odonata","Aeshnidae",50,100,"(Garrison et al. 2006) ",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"393","Odonata","Corduliidae",28,68,"(Garrison et al. 2006)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"394","Odonata","Libellulidae",17,63,"(Garrison et al. 2006)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"395","Odonata","Coenagrionidae",16,60,"(Silsby 2001)/(Howarth & Mull 1992)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"396","Odonata","Lestidae",40,75,"(Esquivel 1997)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"397","Odonata","Platycnemididae",40,50,"(Silsby 2001)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"398","Orthoptera","Acrididae",9,120,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"399","Orthoptera","Tetrigidae",6,16,"(Arnett 2000)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"400","Orthoptera","Gryllidae",4,50,"(Otte & Alexander 1983)",1,0,1,0,0.7,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0.9,0.1,1,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"401","Orthoptera","Tettigoniidae",5,90,"(Rentz 2010)",1,0,1,0,0.4,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Predator","Plants",TRUE
+"402","Plecoptera","Capniidae",3,25,"(Parker 1982)",0,1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"403","Plecoptera","Chloroperlidae",6,40,"(Parker 1982)",0,1,1,0,0.1,0.2,0,0,0.7,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"404","Plecoptera","Leuctridae",6,13,"(Arnett 2000)",0,1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"405","Plecoptera","Nemouridae",6,15,"(Arnett 2000)",0,1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"406","Plecoptera","Perlodidae",8,50,"(Parker 1982)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",TRUE
+"407","Plecoptera","Taeniopterygidae",10,25,"(Arnett 2000)",0,1,1,0,0.2,0,0,0,0.8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"408","Psocoptera","Amphipsocidae",2.8,5.5,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"409","Psocoptera","Caeciliusidae",2.5,4.5,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"410","Psocoptera","Ectopsocidae",2,2.5,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"411","Psocoptera","Elipsocidae",2,2.6,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"412","Psocoptera","Epipsocidae",2.5,5.7,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"413","Psocoptera","Lachesillidae",1.8,2.2,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"414","Psocoptera","Liposcelididae",1,1.5,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"415","Psocoptera","Mesopsocidae",3.8,4.2,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"416","Psocoptera","Peripsocidae",2,4,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"417","Psocoptera","Philotarsidae",2.2,3.8,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"418","Psocoptera","Psocidae",3.2,5.4,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"419","Psocoptera","Psyllipsocidae",1.3,2,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"420","Psocoptera","Stenopsocidae",3.5,4.5,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"421","Psocoptera","Trichopsocidae",2,2.5,"(Arnett 2000)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Plants",TRUE
+"422","Psocoptera","Trogiidae",1.6,2.5,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"423","Thysanoptera","Aeolothripidae",1.4,2.6,"(Treherne 1919)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Predator","Plants",TRUE
+"424","Thysanoptera","Thripidae",1,3,"(Arnett 2000)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"425","Trichoptera","Apataniidae",4,13,"(Ivanov & Menshutkina 1996)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"426","Trichoptera","Beraeidae",4,5,"(Arnett 2000)",0,1,1,0,0.2,0,0,0,0.8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"427","Trichoptera","Brachycentridae",6,11,"(Arnett 2000)",0,1,1,0,0.2,0,0,0,0.8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"428","Trichoptera","Ecnomidae",2,7,"(Neboiss 1986)",0,1,1,0,0.2,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"429","Trichoptera","Glossosomatidae",3,10,"(Neboiss 1986)",0,1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"430","Trichoptera","Goeridae",4,10,"(Parker 1998)/(Greenhalgh & Ovenden 2004) ",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"431","Trichoptera","Hydropsychidae",3,21,"(Neboiss 1986) /(Picker et al. 2004)",0,1,1,0,0.2,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0,0,1,0.5,0,0,0,0.5,NA,"Saprophagous","Water",TRUE
+"432","Trichoptera","Hydroptilidae",1.5,4,"(Neboiss 1986)",0,1,1,0,0.1,0.1,0,0,0.8,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"433","Trichoptera","Lepidostomatidae",8,10,"(Arnett 2000)",0,1,1,0,0.3,0.1,0,0,0.6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,NA,"Saprophagous","Water",TRUE
+"434","Trichoptera","Leptoceridae",4,15,"(Neboiss 1986)",0,1,1,0,0.3,0.1,0,0,0.6,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"435","Trichoptera","Limnephilidae",7,23,"(Neboiss 1986)",0,1,1,0,0.4,0,0,0,0.6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"436","Trichoptera","Molannidae",10,17,"(Arnett 2000)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"437","Trichoptera","Philopotamidae",6,9,"(Neboiss 1986)",0,1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"438","Trichoptera","Phryganeidae",12,28,"(Wiggins 1998)",0,1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"439","Trichoptera","Polycentropodidae",5,10,"(Neboiss 1986)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"440","Trichoptera","Psychomyiidae",4,6,"(Arnett 2000)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"441","Trichoptera","Rhyacophilidae",8,13,"(Arnett 2000)",0,1,1,0,0.2,0.3,0,0,0.5,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,"Predator","Water",TRUE
+"442","Trichoptera","Sericostomatidae",8,14,"(Picker et al. 2004)",0,1,1,0,0.3,0,0,0,0.7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",TRUE
+"443","Zygentoma","Lepismatidae",8,20,"(Arnett 2000)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"444","Auchenorrhyncha","Achilidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"445","Auchenorrhyncha","Aphrophoridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"446","Auchenorrhyncha","Cicadellidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"447","Auchenorrhyncha","Cixiidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"448","Auchenorrhyncha","Delphacidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"449","Auchenorrhyncha","Membracidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"450","Coleoptera","Apionidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0.2,0.4,0.3,0,0,0.1,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"451","Coleoptera","Malachiidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Plants",TRUE
+"452","Coleoptera","Rhynchitidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"453","Dermaptera","Spongiphoridae",NA,NA,NA,1,0,1,0,0,0,0,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"454","Dictyoptera","Blattidae",NA,NA,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"455","Diptera","Bolitophilidae",NA,NA,NA,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",TRUE
+"456","Diptera","Camillidae",NA,NA,NA,1,0,1,0,0,0,0,0,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"457","Diptera","Chamaemyiidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Plants",TRUE
+"458","Diptera","Cylindrotomidae",NA,NA,NA,0.8,0.2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"459","Diptera","Diastatidae",NA,NA,NA,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous",NA,TRUE
+"460","Diptera","Ditomyiidae",NA,NA,NA,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"461","Diptera","Heleomyzidae",NA,NA,NA,1,0,1,0,0.1,0.2,0.1,0,0.3,0.3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,NA,"Saprophagous","Temporary habitats",TRUE
+"462","Diptera","Limoniidae",NA,NA,NA,0.5,0.5,1,0,0.1,0,0.1,0,0.8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"463","Diptera","Megamerinidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Wood",TRUE
+"464","Diptera","Opetiidae",NA,NA,NA,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"465","Diptera","Pediciidae",NA,NA,NA,0.1,0.9,1,0,0.2,0,0.3,0,0.5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Soil",TRUE
+"466","Diptera","Phaeomyiidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophage-parasitoid","Soil",TRUE
+"467","Diptera","Tanypezidae",NA,NA,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",TRUE
+"468","Heteroptera","Acanthosomatidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"469","Heteroptera","Anthocoridae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,TRUE
+"470","Heteroptera","Aradidae",NA,NA,NA,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"471","Heteroptera","Artheneidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"472","Heteroptera","Berytidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"473","Heteroptera","Blissidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"474","Heteroptera","Cimicidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,TRUE
+"475","Heteroptera","Coreidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"476","Heteroptera","Cydnidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"477","Heteroptera","Cymidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"478","Heteroptera","Gerridae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0.2,NA,NA,NA,TRUE
+"479","Heteroptera","Heterogastridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"480","Heteroptera","Lygaeidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"481","Heteroptera","Microphysidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,TRUE
+"482","Heteroptera","Miridae",NA,NA,NA,1,0,1,0,0.8,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,TRUE
+"483","Heteroptera","Nabidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,TRUE
+"484","Heteroptera","Naucoridae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,TRUE
+"485","Heteroptera","Pentatomidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"486","Heteroptera","Piesmatidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"487","Heteroptera","Pyrrhocoridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"488","Heteroptera","Reduviidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,TRUE
+"489","Heteroptera","Rhopalidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"490","Heteroptera","Rhyparochromidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"491","Heteroptera","Saldidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,TRUE
+"492","Heteroptera","Scutelleridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"493","Heteroptera","Tingidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"494","Hymenoptera","Dryinidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"495","Hymenoptera","Ormyridae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"496","Hymenoptera","Signiphoridae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"497","Lepidoptera","Bedelliidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"498","Lepidoptera","Crambidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0.4,0,0,0.1,0.1,0.1,0,0,0.3,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"499","Lepidoptera","Epermeniidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0.3,0,0,0,0.1,0.1,0.2,0.3,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"500","Lepidoptera","Erebidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"501","Lepidoptera","Lypusidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"502","Lepidoptera","Nolidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0.8,0,0,0,0,0,0,0.1,0.1,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"503","Lepidoptera","Praydidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0.5,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"504","Lepidoptera","Schreckensteiniidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"505","Lepidoptera","Scythrididae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0.1,0,0,0,0,0,0,0.9,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"506","Lepidoptera","Stathmopodidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",TRUE
+"507","Raphidioptera","Raphidiidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Wood",TRUE
+"508","Siphonaptera","Ceratophyllidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"509","Siphonaptera","Hystrichopsyllidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,"Saprophagous","Temporary habitats",TRUE
+"510","Sternorrhyncha","Adelgidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"511","Sternorrhyncha","Aleyrodidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"512","Sternorrhyncha","Aphididae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"513","Sternorrhyncha","Phylloxeridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"514","Sternorrhyncha","Psyllidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"515","Sternorrhyncha","Triozidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,TRUE
+"516","Strepsiptera","Elenchidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"517","Strepsiptera","Halictophagidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"518","Strepsiptera","Stylopidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Phytophage-parasitoid","Plants",TRUE
+"519","Collembola","Bourletiellidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Plants",TRUE
+"520","Collembola","Brachystomellidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"521","Collembola","Dicyrtomidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"522","Collembola","Katiannidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"523","Collembola","Sminthurididae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",TRUE
+"524","Blattodea","Blattidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Temporary habitats",TRUE
+"525","Hemiptera","Adelgidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"526","Hemiptera","Aleyrodidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"527","Hemiptera","Aphalaridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"528","Hemiptera","Aphididae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"529","Hemiptera","Liviidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"530","Hemiptera","Phylloxeridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"531","Hemiptera","Psyllidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"532","Hemiptera","Triozidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"533","Hemiptera","Aphrophoridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"534","Hemiptera","Artheneidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"535","Hemiptera","Blissidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"536","Hemiptera","Cymidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"537","Hemiptera","Heterogastridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"538","Hemiptera","Rhyparochromidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"539","Hemiptera","Thyreocoridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Soil",TRUE
+"540","Coleoptera","Dasytidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Wood",TRUE
+"541","Coleoptera","Stenotrachelidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Wood",TRUE
+"542","Coleoptera","Dryophthoridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"543","Coleoptera","Megalopodidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",TRUE
+"544","Hymenoptera","Azotidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophage-parasitoid","Plants",TRUE
+"545","Archaeognatha",NA,10,12,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"546","Blattodea","Blattidae ",18,45,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"547","Blattodea","Cryptocercidae",24,29,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"548","Blattodea","Ectobiidae ",8,18,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"549","Blattodea","Corydiidae",15,24,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"550","Coleoptera","Amphizoidae",11,16,"(Parker, 1982) ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"551","Coleoptera","Aspidytidae",4.8,7,"(Beutel & Leschen, 2005) ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"552","Coleoptera","Gyrinidae",3,15,"(Parker, 1982)",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",FALSE
+"553","Coleoptera","Haliplidae",2,6,"(Parker, 1982)",0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",FALSE
+"554","Coleoptera","Hygrobiidae",8,10,"(Parker, 1982)",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"555","Coleoptera","Noteridae",1,5.8,"(Beutel & Leschen, 2005)",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",FALSE
+"556","Coleoptera","Trachypachidae",3.8,7,"(Beutel & Leschen, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Soil",FALSE
+"557","Coleoptera","Cupedidae",5,22,"(Beutel & Leschen, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"558","Coleoptera","Micromalthidae",1.5,2.5,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"559","Coleoptera","Ommatidae",6,27,"(Beutel & Leschen, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"560","Coleoptera","Lepiceridae",1.5,2,"(Beutel & Leschen, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"561","Coleoptera","Hydroscaphidae",1,2,"(Beutel & Leschen, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"562","Coleoptera","Sphaeriusidae",0.5,1.2,"(Beutel & Leschen, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Water",FALSE
+"563","Coleoptera","Torridincolidae",1,2.7,"(Beutel & Leschen, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"564","Coleoptera","Alexiidae",1.2,1.7,"(Shockley, 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Fungi",FALSE
+"565","Coleoptera","Polyphaga",2.5,10,"(Leschen et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"566","Coleoptera","Belidae",4.5,20,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"567","Coleoptera","Biphyllidae",1.5,8,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",FALSE
+"568","Coleoptera","Boridae",8,25,"(Arnett et al., 2010) ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Wood",FALSE
+"569","Coleoptera","Bothrideridae",1.5,13,"(Arnett et al., 2010)",1,0,1,0,0,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Predator","Wood",FALSE
+"570","Coleoptera","Brachyceridae",1.5,6,"(Arnett et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"571","Coleoptera","Callirhipidae",9,23,"(Arnett et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"572","Coleoptera","Cephaloidae",4.2,22,"(Leschen et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"573","Coleoptera","Ceratocanthidae",2,9,"(Arnett et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"574","Coleoptera","Chelonariidae",2.5,10,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"575","Coleoptera","Cucujidae",2.5,25,"(Leschen et al., 2010)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",FALSE
+"576","Coleoptera","Dascillidae",6,20,"(Parker, 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,"Saprophagous","Soil",FALSE
+"577","Coleoptera","Derodontidae",1.5,4,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Plants",FALSE
+"578","Coleoptera","Discolomatidae",1.1,8,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"579","Coleoptera","Dryopidae",2,8,"(Parker, 1982)",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",FALSE
+"580","Coleoptera","Elmidae",1,8,"(Parker, 1982)",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",FALSE
+"581","Coleoptera","Epimetopidae",1,4,"(Beutel & Leschen, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"582","Coleoptera","Eucinetidae",0.8,4,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Soil",FALSE
+"583","Coleoptera","Eulichadidae",15,25,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"584","Coleoptera","Georissidae",1,3,"(Parker, 1982)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",FALSE
+"585","Coleoptera","Glaphyridae",6,20,"(Arnett et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"586","Coleoptera","Glaresidae",2.5,6,"(Arnett et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"587","Coleoptera","Helotidae",6,16,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"588","Coleoptera","Hybosoridae",5,7,"(Arnett et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"589","Coleoptera","Hydrochidae",2,4,"(Jäch & Balke, 2003)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Water",FALSE
+"590","Coleoptera","Ithyceridae",12,15,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"591","Coleoptera","Languriidae",1.2,25,"(Parker, 1982)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"592","Coleoptera","Limnichidae",0.8,3,"(Parker, 1982)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",FALSE
+"593","Coleoptera","Lutrochidae",3,5,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"594","Coleoptera","Mauroniscidae",2,4.5,"(Leschen et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"595","Coleoptera","Nosodendridae",2.5,9,"(Parker, 1982)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"596","Coleoptera","Ochodaeidae",3,10,"(Arnett et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"597","Coleoptera","Omalisidae",3,9,"(Leschen et al., 2010)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"598","Coleoptera","Omethidae",3,12,"(Arnett et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"599","Coleoptera","Passalidae",18,80,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"600","Coleoptera","Passandridae",3,35,"(Leschen et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"601","Coleoptera","Perimylopidae",6,10,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"602","Coleoptera","Phengodidae",3,65,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"603","Coleoptera","Phloeostichidae",2.4,15,"(Leschen et al., 2010)",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"604","Coleoptera","Pleocomidae",15,45,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"605","Coleoptera","Prionoceridae",5.5,20,"(Leschen et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"606","Coleoptera","Propalticidae",1.2,1.8,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"607","Coleoptera","Prostomidae",5,10,"(Arnett et al., 2010)",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",FALSE
+"608","Coleoptera","Protocucujidae",3.5,5.8,"(Leschen et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"609","Coleoptera","Psephenidae",2,7,"(Parker, 1982)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",FALSE
+"610","Coleoptera","Ptilodactylidae",2,16,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Temporary habitats",FALSE
+"611","Coleoptera","Rhipiceridae",10,25,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"612","Coleoptera","Scydmaenidae",0.5,7,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"613","Coleoptera","Spercheidae",3,7,"(Darilmaz & Kiyak, 2011)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Water",FALSE
+"614","Coleoptera","Sphaeritidae",4,6,"(Parker, 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"615","Coleoptera","Synchroidae",7,13,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"616","Coleoptera","Trictenotomidae",32,80,"(Leschen et al., 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"617","Collembola","Poduridae",1.3,2,"(Arnett, 2000)/(Hopkin, 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Water",FALSE
+"618","Dermaptera","Anisolabididae",9,13,"(Arnett, 2000)",1,0,1,0,0.3,0.4,0,0,0.3,0,0,0,0,0,0,0,0,0,0,1,0.8,0,0,0,0.2,NA,"Saprophagous","Soil",FALSE
+"619","Dermaptera","Apachyidae",11,25,"(Boeseman, 1954)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"620","Dermaptera","Chelisochidae",16,20,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"621","Dermaptera","Labiduridae",18,80,"(Arnett, 2000)/(Berenbaum, 2007)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Soil",FALSE
+"622","Dermaptera","Labiidae",4,7,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"623","Dermaptera","Pygidicranidae",9,45,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"624","Diplura","Japygoidea",8,50,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"625","Diptera","Apioceridae",7.5,35,"(McAlpine et al., eds, 1981)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"626","Diptera","Apsilocephalidae",4.5,5.5,"(Nagatomi et al., 1991)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"627","Diptera","Athericidae",7,10,"(Brown et al., 2009)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",FALSE
+"628","Diptera","Australimyzidae",1.3,2.6,"(Brake & Mathis, 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"629","Diptera","Austroleptidae",3.1,5.3,"(Nagatomi & Nagatomi, 1987)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"630","Diptera","Axymyiidae",4,7,"(Schneeberg et al., 2013)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"631","Diptera","Blephariceridae",3,13,"(McAlpine et al., eds, 1981)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"632","Diptera","Braulidae",1,1.7,"(McAlpine et al., eds, 1987)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"633","Diptera","Canthyloscelidae",2,3.5,"Manual of Neoarctic diptera",1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",FALSE
+"634","Diptera","Corethrellidae",0.6,2.5,"(Brown et al., 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"635","Diptera","Deuterophlebiidae",2,4,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"636","Diptera","Diopsidae",4,12,"(McAlpine et al., eds, 1987)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"637","Diptera","Fergusoninidae",2,3,"(Nelson et al., 2011)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"638","Diptera","Glossinidae",6,14,"(Wall & Shearer, 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"639","Diptera","Helcomyzidae",3,16,"(Mathis, 2011a)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"640","Diptera","Helosciomyzidae",5,11,"(Barnes, 1981)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"641","Diptera","Hesperinidae",4.7,12,"(Papp, 2010)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"642","Diptera","Heterocheilidae",4.2,6.5,"(Mathis, 2011b)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Temporary habitats",FALSE
+"643","Diptera","Hilarimorphidae",1.8,7.2,"(McAlpine et al., eds, 1981)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"644","Diptera","Lygistorrhinidae",3,5,"(Brown et al., 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"645","Diptera","Marginidae",1.5,2,"(McAlpine, 1991)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"646","Diptera","Mydidae",9,60,"(McAlpine et al., eds, 1981)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"647","Diptera","Nemestrinidae",4,16,"(Brown et al., 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"648","Diptera","Neurochaetidae",1.5,4.1,"(McAlpine, 1993)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"649","Diptera","Nycteribiidae",1.5,5.5,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"650","Diptera","Pelecorhynchidae",4,18,"(McAlpine et al., eds, 1981)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"651","Diptera","Perissommatidae",1,2,"(Colless, 1969)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"652","Diptera","Pyrgotidae",5,30,"(Brown et al., 2009)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,FALSE
+"653","Diptera","Richardiidae",3,15,"(Brown et al., 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"654","Diptera","Somatiidae",3.5,5,"(Brown et al., 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"655","Diptera","Streblidae",0.7,5.5,"(Brown et al., 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"656","Diptera","Synneuridae",2,3.5,"(McAlpine et al., eds, 1981)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"657","Diptera","Tanyderidae",11,23,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"658","Diptera","Vermileonidae",7,12,"(Brown et al., 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"659","Diptera","Xenasteiidae",1.2,2,"(Evenhius, 2011)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"660","Embioptera",NA,4,22,"(Arnett, 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"661","Ephemeroptera","Ameletopsidae",15.5,22,"(Mercado & Elliot, 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"662","Ephemeroptera","Ametropodidae",13,15,"(Edmunds et al., 1976)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"663","Ephemeroptera","Baetiscidae",8,16,"(Edmunds et al., 1976)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"664","Ephemeroptera","Behningiidae",12,18,"(Parker, 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"665","Ephemeroptera","Coloburiscidae",13,18,"(Marsh, 2004)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"666","Ephemeroptera","Dipteromimidae",13,23.5,"(Tojo & Matsukawa, 2003)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"667","Ephemeroptera","Euthyplociidae",11,16,"(Gillies, 1980)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"668","Ephemeroptera","Ichthybotidae",19,22,"(Phillips, 1930)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"669","Ephemeroptera","Isonychiidae",9,16,"(Arnett, 2000)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"670","Ephemeroptera","Leptohyphidae",2,10,"(Dominguez et al., 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"671","Ephemeroptera","Neoephemeridae",6,13,"(Bae & McCafferty, 1998)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"672","Ephemeroptera","Nesameletidae",10.5,16.5,"(Hitchings & Staniczek, 2003)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"673","Ephemeroptera","Oligoneuriidae",6,10,"(Edmunds et al., 1976)",0,1,1,0,0.8,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,FALSE
+"674","Ephemeroptera","Oniscigastridae",10,11,"(Heckman, 2002)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"675","Ephemeroptera","Palingeniidae",15,35,"(Parker, 1982)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"676","Ephemeroptera","Polymitarcyidae",12,35,"(Parker, 1982)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"677","Ephemeroptera","Potamanthidae",8,25,"(Parker 1982)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"678","Ephemeroptera","Prosopistomatidae",1.5,4.5,"(Pearson & Penridge 1979)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Water",FALSE
+"679","Ephemeroptera","Rallidentidae",10.5,12,"(Penniket 1966)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"680","Ephemeroptera","Siphlaenigmatidae",8,9,"(Penniket 1962)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"681","Ephemeroptera","Tricorythidae",4,6.5,"(Edmunds et al. 1976)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"682","Grylloblattidae",NA,10,30,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"683","Hemiptera","Achilixiidae",4,8,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"684","Hemiptera","Aetalionidae",3,30,"(Deitz et al. 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"685","Hemiptera","Aleyrodoidea",1,4,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"686","Hemiptera","Alydidae",8,20,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"687","Hemiptera","Aphelocheiridae",3.5,11.5,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Water",FALSE
+"688","Hemiptera","Aphidoidea",1,8,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"689","Hemiptera","Belostomatidae",9,110,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"690","Hemiptera","Caliscelidae",1,5,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"691","Hemiptera","Canopidae",5,7,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"692","Hemiptera","Cercopidae",5,20,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"693","Hemiptera","Cicadidae",10,100,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"694","Hemiptera","Coccoidea",0.6,35,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"695","Hemiptera","Colobathristidae",6,20,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"696","Hemiptera","Corixidae",2.5,15,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Water",FALSE
+"697","Hemiptera","Derbidae",4,11,"(Capinera 2008)/ (Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"698","Hemiptera","Dictyopharidae",3,33,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"699","Hemiptera","Dinidoridae",9,27,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"700","Hemiptera","Dipsocoridae",0.8,3,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Soil",FALSE
+"701","Hemiptera","Enicocephalidae",2,15,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"702","Hemiptera","Eurybrachyidae",7,29,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"703","Hemiptera","Gelastocoridae",7,15,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"704","Hemiptera","Hebridae",1.3,3.7,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"705","Hemiptera","Hermatobatidae",2.5,4,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"706","Hemiptera","Hydrometridae",2.7,22,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Water",FALSE
+"707","Hemiptera","Hyocephalidae",8,15,"Resh and Carde 2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"708","Hemiptera","Idiostolidae",5,7,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"709","Hemiptera","Issidae",2,19,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"710","Hemiptera","Joppeicidae",2.5,3,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"711","Hemiptera","Largidae",7,55,"(Arnett 2000)/ (Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"712","Hemiptera","Leptopodidae",1.8,7,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"713","Hemiptera","Lestoniidae",3.5,5.6,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"714","Hemiptera","Lophopidae",5,15,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"715","Hemiptera","Lyctocoridae",2,6,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"716","Hemiptera","Macroveliidae",2.5,5.6,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"717","Hemiptera","Malcidae",3,4,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"718","Hemiptera","Meenoplidae",3,7,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"719","Hemiptera","Mesoveliidae",1.2,4.2,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Water",FALSE
+"720","Hemiptera","Nepidae",15,45,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Water",FALSE
+"721","Hemiptera","Nogodinidae",4,17,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"722","Hemiptera","Notonectidae",5,15,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Water",FALSE
+"723","Hemiptera","Ochteridae",4.5,9,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"724","Hemiptera","Paraphrynoveliidae",1.7,2.4,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"725","Hemiptera","Peloridiidae",2,5,"(Resh & Cardé 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"726","Hemiptera","Phloeidae",20,30,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"727","Hemiptera","Plataspidae",2,20,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"728","Hemiptera","Pleidae",1.5,3,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Water",FALSE
+"729","Hemiptera","Plokiophilidae",1.2,3,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"730","Hemiptera","Psylloidea",1,8,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"731","Hemiptera","Ricaniidae",4,12,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"732","Hemiptera","Schizopteridae",0.8,2,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"733","Hemiptera","Stenocephalidae",8,15,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"734","Hemiptera","Termitaphididae",2,3,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"735","Hemiptera","Tessaratomidae",15,40,"(Foottit & Adler 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"736","Hemiptera","Tettigometridae",3,11,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"737","Hemiptera","Thaumastocoridae",2,4.6,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"738","Hemiptera","Tropiduchidae",5,13,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"739","Hemiptera","Veliidae",1,10,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Water",FALSE
+"740","Hemiptera","Velocipedidae",10,15,"(Schuh & Slater 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"741","Hymenoptera","Agaonidae",1,3,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"742","Hymenoptera","Anaxyelidae",7.5,8,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"743","Hymenoptera","Blasticotomidae",6,10,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"744","Hymenoptera","Bradynobaenidae",3,20,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"745","Hymenoptera","Eucharitidae",3,10,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,FALSE
+"746","Hymenoptera","Liopteridae",4,15,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"747","Hymenoptera","Maamingidae",1,2,"(Early et al. 2001)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"748","Hymenoptera","Megalodontesidae",5,20,"(Parker 1982)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"749","Hymenoptera","Megalyridae",4,20,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"750","Hymenoptera","Monomachidae",7,22,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"751","Hymenoptera","Orussidae",5,20,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Wood",FALSE
+"752","Hymenoptera","Pelecinidae",30,60,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"753","Hymenoptera","Pergidae",7,10,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"754","Hymenoptera","Plumariidae",3,10,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"755","Hymenoptera","Roproniidae",8,10,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"756","Hymenoptera","Rotoitidae",0.7,0.9,"(Bouček & Noyes 1987)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"757","Hymenoptera","Scolebythidae",7,10,"(Cambra & Oliveira 2003)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"758","Hymenoptera","Scoliidae",8,60,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Saprophage-parasitoid","Soil",FALSE
+"759","Hymenoptera","Sierolomorphidae",3.5,6,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"760","Hymenoptera","Stenotritidae",14,20.5,"(Houston 1983)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"761","Hymenoptera","Stephanidae",4,40,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,FALSE
+"762","Hymenoptera","Tetracampidae",0.5,2,"(Doganler 2003)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Phytophage-parasitoid","Plants",FALSE
+"763","Hymenoptera","Trigonalidae",8,17,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Predator-parasitoid","Plants",FALSE
+"764","Hymenoptera","Vanhorniidae",3,10,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophage-parasitoid","Wood",FALSE
+"765","Isoptera",NA,4,20,"(Robinson 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"766","Lepidoptera","Acanthopteroctetidae",4,6,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"767","Lepidoptera","Acrolophidae",4,28,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"768","Lepidoptera","Agathiphagidae",3,5,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"769","Lepidoptera","Agonoxenidae",2,6,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"770","Lepidoptera","Aididae",4,39,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"771","Lepidoptera","Amphisbatidae",7,8,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"772","Lepidoptera","Andesianidae",10,23,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"773","Lepidoptera","Anomoeotidae",5,8,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"774","Lepidoptera","Anthelidae",9,68,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"775","Lepidoptera","Apatelodidae",10,37,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"776","Lepidoptera","Arctiidae",3,44,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"777","Lepidoptera","Arrhenophanidae",5,29,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"778","Lepidoptera","Bombycidae",10,33,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"779","Lepidoptera","Brachodidae",3,17,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,FALSE
+"780","Lepidoptera","Brahmaeidae",18,66,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"781","Lepidoptera","Callidulidae",8,14,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"782","Lepidoptera","Carposinidae",3,14,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"783","Lepidoptera","Carthaeidae",28,37,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"784","Lepidoptera","Castniidae",10,82,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"785","Lepidoptera","Cimeliidae",8,11,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"786","Lepidoptera","Copromorphidae",3,11,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"787","Lepidoptera","Crinopterygidae",2,2.5,"(Kristensen et al. 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"788","Lepidoptera","Cyclotornidae",3,10,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"789","Lepidoptera","Dalceridae",4,18,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"790","Lepidoptera","Dudgeoneidae",11,29,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"791","Lepidoptera","Epicopeiidae",13,38,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"792","Lepidoptera","Epipyropidae",1,13,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"793","Lepidoptera","Eriocottidae",2,21,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"794","Lepidoptera","Eupterotidae",8,47,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"795","Lepidoptera","Glyphidoceridae",5,7,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"796","Lepidoptera","Hedylidae",15,27,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"797","Lepidoptera","Heterobathmiidae",3,4,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"798","Lepidoptera","Heterogynidae",3,9,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.9,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,NA,NA,NA,FALSE
+"799","Lepidoptera","Himantopteridae",5,12,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"800","Lepidoptera","Hyblaeidae",11,22,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"801","Lepidoptera","Immidae",5,14,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"802","Lepidoptera","Lacturidae",4,22,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"803","Lepidoptera","Lecithoceridae",2,10,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,FALSE
+"804","Lepidoptera","Lemoniidae",9,28,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"805","Lepidoptera","Limacodidae",4,35,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"806","Lepidoptera","Lymantriidae",7,58,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"807","Lepidoptera","Megalopygidae",5,44,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"808","Lepidoptera","Mimallonidae",10,28,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"809","Lepidoptera","Mnesarchaeidae",2,4,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"810","Lepidoptera","Neopseustidae",3,6,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"811","Lepidoptera","Palaephatidae",3,11,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"812","Lepidoptera","Papilionidae",10,83,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0.7,0,0,0.2,0.1,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"813","Lepidoptera","Prodoxidae",2,11,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"814","Lepidoptera","Prototheoridae",2,15,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"815","Lepidoptera","Pterolonchidae",11,12,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"816","Lepidoptera","Riodinidae",8,13,"(Arnett 2000)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"817","Lepidoptera","Sematuridae",19,44,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"818","Lepidoptera","Somabrachyidae",7,8,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"819","Lepidoptera","Thyrididae",4,42,"(Capinera 2008)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"820","Lepidoptera","Tineodidae",7,16,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"821","Lepidoptera","Uraniidae",10,50,"(Capinera 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"822","Lepidoptera","Xyloryctidae",5,29,"(Pohl et al. 2010)/(Zborowski & Edwards 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"823","Lepidoptera","Zygaenidae",4,40,"(Resh & Cardé 2009)",1,0,1,0,1,0,0,0,0,0,0.8,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"824","Mantodea",NA,10,170,"(Prete 1999)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"825","Mantophasmatodea",NA,10,30,"(Buder & Klass 2013)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"826","Mecoptera","Apteropanorpidae",5.5,11,"(Palmer & Siebke 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"827","Mecoptera","Bittacidae",14,34,"(Parker 1982)",1,0,1,0,0,0.1,0,0,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,FALSE
+"828","Mecoptera","Choristidae",11,14,"(Riek 1973)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"829","Mecoptera","Meropeidae",10,12,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"830","Mecoptera","Nannochoristidae",5,9,"(Byers 1989)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"831","Mecoptera","Panorpodidae",7,17,"(Byers 1990)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"832","Megaloptera","Corydalidae",20,80,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"833","Neuroptera","Ascalaphidae",40,80,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"834","Neuroptera","Berothidae",6,15,"(Resh & Cardé 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"835","Neuroptera","Ithonidae",21,40,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"836","Neuroptera","Mantispidae",20,35,"(Arnett 2000)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,FALSE
+"837","Neuroptera","Nemopteridae",15,35,"(Resh & Cardé 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"838","Neuroptera","Nevrorthidae",6,10,"(Resh & Cardé 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"839","Neuroptera","Nymphidae",18,40,"(Resh & Cardé 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"840","Neuroptera","Osmylidae",15,30,"(Resh & Cardé 2009)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",FALSE
+"841","Neuroptera","Polystoechotidae",35,75,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"842","Neuroptera","Psychopsidae",10,35,"(Resh & Cardé 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"843","Odonata","Austropetaliidae",57,86,"(Garrison et al. 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"844","Odonata","Chlorogomphidae",60,78,"(Wilson undated)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"845","Odonata","Cordulegastridae",55,88,"(Garrison et al. 2006)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",FALSE
+"846","Odonata","Gomphidae",25.5,90,"(Garrison et al. 2006)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",FALSE
+"847","Odonata","Macromiidae",56,91,"(Garrison et al. 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"848","Odonata","Neopetaliidae",57,58,"(Garrison et al. 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"849","Odonata","Petaluridae",54,88,"(Garrison et al. 2006)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"850","Odonata","Epiophlebiidae",48,60,"(Fleck et al. 2013)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"851","Odonata","Calopterygidae",45,60,"(Esquivel 1997)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Water",FALSE
+"852","Odonata","Chlorocyphidae",26,30,"(Serrano-Meneses et al. 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"853","Odonata","Chorismagrionidae",38,40,"(Morton. 1914)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"854","Odonata","Diphlebiidae",45,55,"(Stewart 1980)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"855","Odonata","Euphaeidae",26,38,"(Hayashi 1990)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"856","Odonata","Hemiphlebiidae",23,25,"(Rivera 2014)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"857","Odonata","Isostictidae",15,40,"(Watson 1974)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"858","Odonata","Megapodagrionidae",40,75,"(Esquivel 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"859","Odonata","Perilestidae",50,55,"(Esquivel 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"860","Odonata","Platystictidae",40,50,"(Esquivel 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"861","Odonata","Polythoridae",30,40,"(Esquivel 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"862","Odonata","Protoneuridae",30,35,"(Esquivel 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"863","Odonata","Pseudolestidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"864","Odonata","Pseudostigmatidae",80,120,"(Esquivel 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"865","Odonata","Synlestidae",35,60,"(Picker et al. 2004)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"866","Orthoptera","Cylindrachetidae",35,75,"(Günther 1992)/(Bailey 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"867","Orthoptera","Eumastacoidae",10,45,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"868","Orthoptera","Lentulidae",12,25,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"869","Orthoptera","Pamphagidae",30,90,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"870","Orthoptera","Pneumoridae",11.5,100,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"871","Orthoptera","Proscopiidae",25,165,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"872","Orthoptera","Pyrgomorphidae",10,90,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"873","Orthoptera","Romaleidae",18,80,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"874","Orthoptera","Tanaoceridae",10.3,25,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"875","Orthoptera","Tridactylidae",4,15,"(Naskrecki 2001)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"876","Orthoptera","Trigonopterygidae",29,40,"(Ng et al. 2011)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"877","Orthoptera","Xyronotidae",17,30,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"878","Orthoptera","Anostostomatidae",20,80,"(Pratt et al. 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"879","Orthoptera","Gryllacrididae",7,50,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"880","Orthoptera","Gryllotalpidae",20,40,"(Arnett 2000)",1,0,1,0,0.4,0.6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,NA,"Phytophagous","Soil",FALSE
+"881","Orthoptera","Myrmecophilidae",2,4,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"882","Orthoptera","Prophalangopsidae",17,30,"(Walker 2013)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"883","Orthoptera","Rhaphidophoridae",10,30,"(Richards 1968)/(Richards 1959)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Soil",FALSE
+"884","Orthoptera","Stenopelmatidae",30,50,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"885","Phasmatodea","Agathemeridae",40,70,"(Zompro 2004)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"886","Phasmatodea","Aschiphasmatidae",20,60,"(Ng et al. 2011)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"887","Phasmatodea","Bacillidae",40,110,"(Scali et al. 2012) /(Picker et al. 2004)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"888","Phasmatodea","Diapheromeridae",17.5,140,"(Zompro 1999)/ (Brock & Hasenpusch 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"889","Phasmatodea","Heteropterygidae",20,150,"(Ng et al. 2011)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"890","Phasmatodea","Phasmatidae",50,357,"(Ng et al. 2011)/ (Hennemann & Conle 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"891","Phasmatodea","Phylliidae",24,90,"(Zompro 2001)/(Ng et al. 2011)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"892","Phasmatodea","Pseudophasmatoidea",17.5,250,"(Zompro 1998)/(Picker et al. 2004)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"893","Phasmatodea","Timematidae",12,25,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"894","Phthiraptera","Boopidae",1.3,3.14,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"895","Phthiraptera","Gyropidae",0.8,1,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"896","Phthiraptera","Haematomyzidae",1.9,3,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"897","Phthiraptera","Heptapsogasteridae",0.81,4.44,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"898","Phthiraptera","Laemobothriidae",6.5,11,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"899","Phthiraptera","Menoponidae",1.1,6,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"900","Phthiraptera","Philopteridae",1.12,9.72,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"901","Phthiraptera","Ricinidae",1.6,5.5,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"902","Phthiraptera","Trichodectidae",0.92,2.73,"(Parker 1982)",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"903","Phthiraptera","Anoplura",0.5,5,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"904","Plecoptera","Austroperlidae",10,35,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"905","Plecoptera","Diamphipnoidae",25,45,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"906","Plecoptera","Eustheniidae",15,35,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"907","Plecoptera","Gripopterygidae",5,25,"(Michaelis et al. 2011)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"908","Plecoptera","Notonemouridae",5,8,"(Picker et al. 2004)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"909","Plecoptera","Peltoperlidae",34,49,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"910","Plecoptera","Perlidae",10,50,"(Parker 1982)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Saprophagous","Water",FALSE
+"911","Plecoptera","Pteronarcyidae",38,63,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"912","Plecoptera","Scopuridae",16,25,"(Jin & Bae 2005)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"913","Protura",NA,0.6,2.5,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"914","Psocoptera","Amphientomidae",2.3,5,"(New & Lienhard 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"915","Psocoptera","Archipsocidae",1.2,1.8,"(New & Lienhard 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"916","Psocoptera","Calopsocidae",4.3,7,"(New & Lienhard 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"917","Psocoptera","Hemipsocidae",2.5,2.8,"(New & Lienhard 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"918","Psocoptera","Lepidopsocidae",2,2.5,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"919","Psocoptera","Myopsocidae",3,5,"(Arnett 2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"920","Psocoptera","Pachytroctidae",1.4,1.8,"(New & Lienhard 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"921","Psocoptera","Prionoglarididae",3,3.4,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"922","Psocoptera","Pseudocaeciliidae",2.5,8,"(New & Lienhard 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"923","Psocoptera","Psilopsocidae",1.9,3.2,"(New & Lienhard 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"924","Psocoptera","Psoquillidae",1.1,2,"(New & Lienhard 2007)",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"925","Psocoptera","Troctopsocidae",1.4,4.1,"(New & Lienhard 2007)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"926","Raphidioptera ",NA,5,20,"(Resh & Cardé 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"927","Siphonaptera ",NA,1,10,"(Whiting et al. 2008)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"928","Strepsiptera",NA,1,7.5,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"929","Thysanoptera","Heterothripidae",0.6,1.5,"(Retana-Salazar 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"930","Thysanoptera","Phlaeothripidae",2,14,"(Lewis 1973)",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"931","Trichoptera","Anomalopsychidae",4,8,"(Holzenthal & Flint Jr 1995)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"932","Trichoptera","Atriplectididae",7,10,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"933","Trichoptera","Calamoceratidae",6,10,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"934","Trichoptera","Calocidae",2,10,"(Arnett 2000) /(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"935","Trichoptera","Chathamiidae",6,9,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"936","Trichoptera","Conoesucidae",4,10,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"937","Trichoptera","Dipseudopsidae",4,14,"(Olah & Johanson 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"938","Trichoptera","Helicophidae",3,6,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"939","Trichoptera","Helicopsychidae",4,6,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"940","Trichoptera","Hydrobiosidae",4,13,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"941","Trichoptera","Kokiriidae",5,9,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"942","Trichoptera","Limnocentropodidae",10,12,"(Wiggins 1956)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"943","Trichoptera","Odontoceridae",5,14,"(Neboiss 1986)/(Arnett 2000)",0,1,1,0,0.1,0,0,0,0.9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Water",FALSE
+"944","Trichoptera","Oeconesidae",12,16,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"945","Trichoptera","Philorheithridae",6,13,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"946","Trichoptera","Pisuliidae",6,19,"(Morse 1974)/ (Picker et al. 2004)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"947","Trichoptera","Stenopsychidae",6,12,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"948","Trichoptera","Tasimiidae",4,6,"(Neboiss 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"949","Trichoptera","Uenoidae",7,9,"(Houghton 2012)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"950","Trichoptera","Xiphocentronidae",3,4,"(Munoz-Quesada & Holzenthal 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"951","Zoraptera",NA,2,3,"(Parker 1982)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"952","Zygentoma","Lepidotrichidae",12,14,"(Arnett 2000)/(Resh & Cardé 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"953","Zygentoma","Nicoletiidae",4,29,"(Arnett 2000)/(Espinasa et al. 2013)",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"954","Auchenorrhyncha","Caliscelidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"955","Auchenorrhyncha","Cercopidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"956","Auchenorrhyncha","Cicadidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"957","Auchenorrhyncha","Dictyopharidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"958","Auchenorrhyncha","Issidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"959","Auchenorrhyncha","Tettigometridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"960","Coleoptera","Alleculidae",NA,NA,NA,1,0,1,0,0.5,0.2,0,0,0.3,0,0,0.4,0,0,0,0,0,0,0.6,0,0,0,1,0,0,NA,NA,NA,FALSE
+"961","Coleoptera","Aspidiphoridae",NA,NA,NA,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"962","Coleoptera","Bruchidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"963","Coleoptera","Cerophytidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"964","Coleoptera","Cholevidae",NA,NA,NA,1,0,1,0,0,0.8,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8,NA,NA,NA,FALSE
+"965","Coleoptera","Cimberidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"966","Coleoptera","Cisidae",NA,NA,NA,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"967","Coleoptera","Colonidae",NA,NA,NA,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"968","Coleoptera","Colydiidae",NA,NA,NA,1,0,1,0,0.7,0,0.3,0,0,0,0,0.9,0,0,0,0,0,0,0,0.1,0,0,0,0,0,NA,NA,NA,FALSE
+"969","Coleoptera","Cybocephalidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"970","Coleoptera","Lagriidae",NA,NA,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"971","Coleoptera","Leptinidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"972","Coleoptera","Lissomidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"973","Coleoptera","Lophocateridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"974","Coleoptera","Lyctidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"975","Coleoptera","Lymexylonidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"976","Coleoptera","Mycteridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA,NA,FALSE
+"977","Coleoptera","Peltidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"978","Coleoptera","Platypodidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"979","Coleoptera","Pselaphidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"980","Coleoptera","Rhipiphoridae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Saprophage-parasitoid","Soil",FALSE
+"981","Coleoptera","Rhysodidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",FALSE
+"982","Coleoptera","Scolytidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"983","Coleoptera","Sphaerosomatidae",NA,NA,NA,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"984","Coleoptera","Thorictidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"985","Coleoptera","Trogidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,"Saprophagous","Temporary habitats",FALSE
+"986","Coleoptera","Trogositidae",NA,NA,NA,1,0,1,0,0,0.4,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"987","Coleoptera","Urodonidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"988","Dictyoptera","Blattellidae",NA,NA,NA,1,0,1,0,0.5,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,FALSE
+"989","Dictyoptera","Mantidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,FALSE
+"990","Dictyoptera","Rhinotermitidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"991","Diptera","Campichoetidae",NA,NA,NA,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",FALSE
+"992","Diptera","Canacidae",NA,NA,NA,1,0,1,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"993","Diptera","Coenomyiidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Wood",FALSE
+"994","Diptera","Cremifaniidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,FALSE
+"995","Diptera","Cryptochetidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,FALSE
+"996","Diptera","Eginiidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,FALSE
+"997","Diptera","Gasterophilidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"998","Diptera","Hypodermatidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"999","Diptera","Microphoridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,FALSE
+"1000","Diptera","Mycetobiidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Fungi",FALSE
+"1001","Diptera","Neottiophilidae",NA,NA,NA,1,0,1,0,0,0.1,0.8,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,FALSE
+"1002","Diptera","Otitidae",NA,NA,NA,1,0,1,0,0,0,0,0.2,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1003","Diptera","Penthetriidae",NA,NA,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1004","Diptera","Pseudopomyzidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Wood",FALSE
+"1005","Diptera","Tethinidae",NA,NA,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1006","Diptera","Thyreophoridae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,FALSE
+"1007","Diptera","Trixoscelididae",NA,NA,NA,1,0,1,0,0.3,0.2,0.2,0,0.3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,NA,"Saprophagous","Temporary habitats",FALSE
+"1008","Ephemeroptera","Arthropleidae",NA,NA,NA,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1009","Heteroptera","Alydidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1010","Heteroptera","Aphelocheiridae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1011","Heteroptera","Ceratocombidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1012","Heteroptera","Corixidae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1013","Heteroptera","Dipsocoridae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1014","Heteroptera","Geocoridae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1015","Heteroptera","Hebridae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1016","Heteroptera","Hydrometridae",NA,NA,NA,0,1,0.8,0.2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0.5,NA,NA,NA,FALSE
+"1017","Heteroptera","Leptopodidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1018","Heteroptera","Mesoveliidae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0.5,NA,NA,NA,FALSE
+"1019","Heteroptera","Nepidae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1020","Heteroptera","Notonectidae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1021","Heteroptera","Oxycarenidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1022","Heteroptera","Plataspidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1023","Heteroptera","Pleidae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1024","Heteroptera","Stenocephalidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1025","Heteroptera","Veliidae",NA,NA,NA,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,FALSE
+"1026","Hymenoptera","Embolemidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,"Saprophage-parasitoid","Wood",FALSE
+"1027","Hymenoptera","Leucospidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,FALSE
+"1028","Lepidoptera","Chimabachidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"1029","Lepidoptera","Heliodinidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"1030","Lepidoptera","Millieridae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,FALSE
+"1031","Lepidoptera","Peleopodidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"1032","Lepidoptera","Scythropiidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,"Phytophagous","Plants",FALSE
+"1033","Microcoryphia","Machilidae",NA,NA,NA,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1034","Orthoptera","Raphidophoridae",NA,NA,NA,1,0,1,0,0.2,0,0,0,0.8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,NA,NA,FALSE
+"1035","Phthiraptera","Bovicoliidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,FALSE
+"1036","Phthiraptera","Echinophthiriidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1037","Phthiraptera","Enderleinellidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1038","Phthiraptera","Gliricolidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1039","Phthiraptera","Goniodidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1040","Phthiraptera","Haematopinidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1041","Phthiraptera","Hoplopleuridae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1042","Phthiraptera","Linognathidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1043","Phthiraptera","Pediculidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1044","Phthiraptera","Polyplacidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1045","Phthiraptera","Pthiridae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1046","Phthiraptera","Trimenoponidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Parasite","Homeothermic animals",FALSE
+"1047","Psocoptera","Sphaeropsocidae",NA,NA,NA,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"1048","Raphidioptera","Inocelliidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,"Predator","Wood",FALSE
+"1049","Siphonaptera","Ctenophthalmidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"1050","Siphonaptera","Ischnopsyllidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"1051","Siphonaptera","Pulicidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"1052","Siphonaptera","Vermipsyllidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,"Saprophagous","Temporary habitats",FALSE
+"1053","Sternorrhyncha","Asterolecaniidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1054","Sternorrhyncha","Cerococcidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1055","Sternorrhyncha","Coccidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1056","Sternorrhyncha","Cryptococcidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1057","Sternorrhyncha","Diaspididae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1058","Sternorrhyncha","Eriococcidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1059","Sternorrhyncha","Kermesidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1060","Sternorrhyncha","Margarodidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1061","Sternorrhyncha","Matsucoccidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1062","Sternorrhyncha","Monophlebidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1063","Sternorrhyncha","Ortheziidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1064","Sternorrhyncha","Pseudococcidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1065","Sternorrhyncha","Putoidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1066","Sternorrhyncha","Steingeliidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1067","Sternorrhyncha","Xylococcidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1068","Strepsiptera","Corioxenidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,FALSE
+"1069","Strepsiptera","Xenidae",NA,NA,NA,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,"Phytophage-parasitoid","Plants",FALSE
+"1070","Thysanoptera","Fauriellidae",NA,NA,NA,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1071","Trichoptera","Ptilocolepidae",NA,NA,NA,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,FALSE
+"1072","SUM (species)","source: GBOL Server",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1073","Content: 587 insect families; 15262 classifications",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1074",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1075",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1076",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1077",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1078",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1079","Explanations",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1080","1 – 4","habitats of larvae and adults in proportion to species diversity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1081","5","larvae phytophagous in proportion to species diversity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1082","6","larvae zoophagous in proportion to species diversity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1083","7 – 10","other diet types of the larvae in proportion to species diversity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1084","11 – 20","diet types of phytophagous larvae in proportion to phytophagous species diversity (5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1085","21 – 26","diet types of zoophagous larvae in proportion to zoophagous species diversity (6)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1086","0,1-1 (=ca. 10-100%)","classification on a ten-point scale based on the behavior of the species in the family, minimum 0, maximum 1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+"1087","Collembola","Arrhopalitidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"1088","Collembola","Cyphoderidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"1089","Collembola","Mackenziellidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"1090","Collembola","Odontellidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"1091","Collembola","Oncopoduridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"1092","Protura","Acerentomidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"1093","Protura","Eosentomidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"1094","Archaeognatha","Machilidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"1095","Blattodea","Blattellidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Temporary habitats",FALSE
+"1096","Phthiraptera","Bovicolidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Parasite","Homeothermic animals",FALSE
+"1097","Thysanoptera","Melanthripidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Plants",FALSE
+"1098","Hemiptera","Acanthococcidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1099","Hemiptera","Anoeciidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1100","Hemiptera","Asterolecaniidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1101","Hemiptera","Coccidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1102","Hemiptera","Cryptococcidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1103","Hemiptera","Diaspididae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1104","Hemiptera","Drepanosiphidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1105","Hemiptera","Hormaphididae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1106","Hemiptera","Kermesidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1107","Hemiptera","Lachnidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1108","Hemiptera","Margarodidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1109","Hemiptera","Matsucoccidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1110","Hemiptera","Mindaridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1111","Hemiptera","Monophlebidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1112","Hemiptera","Ortheziidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1113","Hemiptera","Pemphigidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1114","Hemiptera","Pseudococcidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1115","Hemiptera","Rhizoecidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1116","Hemiptera","Steingeliidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1117","Hemiptera","Ulopidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1118","Hemiptera","Ceratocombidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1119","Hemiptera","Geocoridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Plants",FALSE
+"1120","Hemiptera","Oxycarenidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1121","Hemiptera","Plataspididae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1122","Coleoptera","Bolboceratidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Soil",FALSE
+"1123","Coleoptera","Erirhinidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1124","Coleoptera","Nanophyidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1125","Hymenoptera","Heptamelidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1126","Hymenoptera","Eriaporidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophage-parasitoid","Plants",FALSE
+"1127","Hymenoptera","Ismaridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator-parasitoid","Plants",FALSE
+"1128","Hymenoptera","Sparasionidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophage-parasitoid","Soil",FALSE
+"1129","Hymenoptera","Myrmosidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophage-parasitoid","Soil",FALSE
+"1130","Hymenoptera","Thynnidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator-parasitoid","Soil",FALSE
+"1131","Lepidoptera","Depressariidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1132","Lepidoptera","Dryadaulidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Wood",FALSE
+"1133","Lepidoptera","Meessidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Plants",FALSE
+"1134","Lepidoptera","Parametriotidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Phytophagous","Plants",FALSE
+"1135","Diptera","Borboropsidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Temporary habitats",FALSE
+"1136","Diptera","Brachystomatidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Soil",FALSE
+"1137","Diptera","Chiropteromyzidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Temporary habitats",FALSE
+"1138","Diptera","Rhiniidae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Predator","Soil",FALSE
+"1139","Diptera","Stenomicridae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Saprophagous","Water",FALSE
+"1140","SUMMA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
