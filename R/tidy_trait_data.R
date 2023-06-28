@@ -7,8 +7,6 @@ library(janitor)      # Helps with data cleaning tasks
 library(readxl)       # Allows reading Excel files
 library(VIM)          # Provides functions for handling missing data
 
-# FinBIF API for taxa names
-
 # data --------------------------------------------------------------------
 
 # cluster taxonomy
@@ -47,8 +45,11 @@ tidy_feeding_niche_hörren <- raw_feeding_niche_hörren %>%
                               mutate(family = recode(family, Trogositidae = "Trogossitidae")) %>% 
                               mutate(higher_taxon = recode(higher_taxon  , 
                                                                      Auchenorrhyncha = "Hemiptera" , 
-                                                                     Sternorrhyncha  = "Hemiptera")) %>% 
+                                                                     Sternorrhyncha  = "Hemiptera",
+                                                                     Heteroptera     = "Hemiptera")) %>% 
                               distinct()
+
+
 
 # feeding niche ------------------------------------------------------
 
@@ -78,10 +79,9 @@ View(tidy_feeding_niche_ronquist)    # Visualize tidy feeding niche data from Ro
 
 # join --------------------------------------------------------------------
 
-# Join all the tidy data frames into one
+# Join all the tidy data frames into one & tidy
 all_traits_sub <- full_join(tidy_body_mass, tidy_feeding_niche_hörren, by = c("higher_taxon", "family")) %>%
-              full_join(tidy_feeding_niche_ronquist, by = c("higher_taxon", "family"), multiple = "all") %>% 
-              mutate(in_IBA = family %in% IBA_taxa$Family) %>% 
+                  full_join(tidy_feeding_niche_ronquist, by = c("higher_taxon", "family"), multiple = "all") %>% 
               mutate(higher_taxon = str_trim(higher_taxon , "right") , 
                      family = str_trim(family , "right")) %>% 
               mutate(main_feeding_niche_ronquist = case_when(is.na(main_feeding_niche_ronquist) & saprophagous > .5  ~ "Saprophagous" , 
@@ -112,8 +112,15 @@ all_traits_s2 <- filter(all_traits_sub , higher_taxon %in% c("Protura","Raphidio
                   group_by(higher_taxon) %>%   
                   fill(length_min , length_max , .direction = "downup") %>% ungroup()
 
-all_traits <- bind_rows(all_traits_s2 , all_traits_s1) 
 
+# Get all families from IBA 
+IBA_families <- select(IBA_taxa , higher_taxon = Order , family = Family) %>% distinct()
+
+# final join
+all_traits <- bind_rows(all_traits_s2 , all_traits_s1) %>%
+              full_join(IBA_families) %>% 
+              mutate(in_IBA = family %in% IBA_taxa$Family) 
+  
 
 # save --------------------------------------------------------------------
 
@@ -128,7 +135,7 @@ all_traits %>% select(-matches("reference|family|taxon|sub_family|in_IBA")) %>%
   VIM::aggr(., cex.axis = 1, combined = TRUE)
 
 # Number of families in complete cases:
-all_traits %>% select(-sub_family) %>% drop_na() %>% pull(family) # 433 Families with complete trait data. 
+all_traits %>% select(-sub_family) %>% drop_na() %>% pull(family) # 457 Families with complete trait data. 
 
 # Filter the complete cases
 complete_traits <- filter(all_traits) %>% drop_na(-sub_family)
